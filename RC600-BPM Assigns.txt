@@ -17,6 +17,7 @@ ASSIGN  CC Source      Target
 16      21          TEMPO
 
 
+for MEMORY90A.RC0
 ASSIGN  CC Source      Target
 1       64          T FX CR TYP INC
 2       65          RHYTHM LVL
