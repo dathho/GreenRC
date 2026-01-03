@@ -5,7 +5,7 @@ Designed for use with the Boss RC600.
 
     MIDI Channel 1
 
-    ![GrnRC1](https://github.com/user-attachments/assets/c0ac1d2d-a767-4077-94b5-61c47e9ba80b)
+![GrnRC1](https://github.com/user-attachments/assets/6fd6cb3a-b36b-4298-a533-2c618ca9afcc)
 
 
 Assigns are required on the Boss RC600 for functionality.
