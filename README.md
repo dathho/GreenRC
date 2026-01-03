@@ -5,6 +5,9 @@ Designed for use with the Boss RC600.
 
     MIDI Channel 1
 
+    ![GrnRC1](https://github.com/user-attachments/assets/c0ac1d2d-a767-4077-94b5-61c47e9ba80b)
+
+
 Assigns are required on the Boss RC600 for functionality.
 Place the MEMORY99A.RCO and MEMORY98A.RC0 on your 
 looper and copy their Assigns to other locations...
