@@ -18,8 +18,7 @@ Assigns are required on the Boss RC600 for functionality.
 Place the MEMORY99A.RCO and MEMORY98A.RC0 on your 
 looper and copy their Assigns to other locations...
 
-MEMORY90X.RCO IS FOR 
-SAMPLING TESTING AND SETTING EFFECTS. 
+MEMORY90X.RCO is for sampling, testing, ans setting effects chains. 
 Little else will work when that PHRASE is loaded.
 
 Once you are happy with the chain and settings save 90 and 
