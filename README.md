@@ -1,7 +1,7 @@
 # GreenRC
 A touchOSC doc for the BOSS RC-600 6-channel looper.
 
-This version trades the Assign for selecting tracks 5&6 for a tempo slider.
+This version trades the ASSIGN for selecting tracks 5&6 for a tempo slider.
 A TAP TEMPO on the interface didn't work for me, but I like this.  Comment in the Forums.
 Things were tightened up and beautified.
 
