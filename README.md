@@ -74,3 +74,5 @@ I'm looking for your best MEMORYXXA.RCO examples.  Maybe with a great pedal mode
 Will listen to any ideas to make this better.
 
 Next Up: 3D, touch sensitive PADs.  Right now I don't see a path but I'm on the outlook.  Let me know if you can help!
+
+It's Green so as not to be too bright onstage.
