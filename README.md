@@ -14,13 +14,10 @@ Designed for use with the Boss RC600.
 Assigns are required on the Boss RC600 for functionality.
 Place the MEMORY99A.RCO and MEMORY98A.RC0 on your 
 looper and copy their Assigns to other locations...
-Maybe the SYSTEMXX.RCO to get prefs...  TRK FX selection
-doesn't work with these but MODE 2&3 have all you need if 
-you use the MEM Pedal settings.
 
     MEMORY90X.RCO IS FOR 
     SAMPLING TESTING AND SETTING EFFECTS. 
-    Little else will wrok.
+    Little else will work when that PHRASE is loaded.
 
     Once you are happy with the chain and settings save 90 and 
     copy the effects  to the phrase(es) you want.
