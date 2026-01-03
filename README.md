@@ -7,6 +7,7 @@ Designed for use with the Boss RC600.
 
 ![GrnRC1](https://github.com/user-attachments/assets/6fd6cb3a-b36b-4298-a533-2c618ca9afcc)
 
+Instructions are in the Document notes:
 
 Assigns are required on the Boss RC600 for functionality.
 Place the MEMORY99A.RCO and MEMORY98A.RC0 on your 
