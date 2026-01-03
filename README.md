@@ -12,18 +12,18 @@ Instructions are also in the Document notes:
 
 Designed for use with the Boss RC600.  
 
-    MIDI Channel 1
+MIDI Channel 1
 
 Assigns are required on the Boss RC600 for functionality.
 Place the MEMORY99A.RCO and MEMORY98A.RC0 on your 
 looper and copy their Assigns to other locations...
 
-    MEMORY90X.RCO IS FOR 
-    SAMPLING TESTING AND SETTING EFFECTS. 
-    Little else will work when that PHRASE is loaded.
+MEMORY90X.RCO IS FOR 
+SAMPLING TESTING AND SETTING EFFECTS. 
+Little else will work when that PHRASE is loaded.
 
-    Once you are happy with the chain and settings save 90 and 
-    copy the effects  to the phrase(es) you want.
+Once you are happy with the chain and settings save 90 and 
+copy the effects  to the phrase(es) you want.
 
 or   -- Subject To change
 
