@@ -1,5 +1,5 @@
 # GreenRC
-A touchOSC template for the BOSS RC-600.
+A touchOSC template for the BOSS RC-600 6-channel looper.
 
 
 
