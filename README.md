@@ -1,9 +1,11 @@
 # GreenRC
 A touchOSC doc for the BOSS RC-600 6-channel looper.
 
+This version trades thee Assign for selecting tracks 5&6 for a tempo slider.
+A TAP TEMPO on the interface didn't work for me, but I like this.  Comment in the Forums
 
+![GrnRC1](https://github.com/user-attachments/assets/ee041af0-d523-4dca-8dcb-5d77d4018e2f)
 
-![GrnRC1](https://github.com/user-attachments/assets/6fd6cb3a-b36b-4298-a533-2c618ca9afcc)
 
 Instructions are also in the Document notes:
 
@@ -40,8 +42,7 @@ ASSIGN  CC Source      Target
 13               13                     CUR TRK LVL
 14               14                     CUR TRK NUM 1+2
 15               20                     CUR TRK NUM 3+4
-16               21                     CUR TRK NUM 5+6
-
+16               21                     TEMPO
 -- or for more effects control set the memory patch to
 --  memory 90a.rco has these assigns.
 
