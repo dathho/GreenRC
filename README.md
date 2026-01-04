@@ -8,25 +8,26 @@ Things were tightened up and beautified.
 ![GrnRC1](https://github.com/user-attachments/assets/ee041af0-d523-4dca-8dcb-5d77d4018e2f)
 
 
-Instructions are also in the Document notes:
-Designed for use with the Boss RC600.  
+1. Instructions are also in the Document notes:
+2. Designed for use with the Boss RC600.  
 
 __MIDI Channel 1__
 
 __PEDAL MODE may need to be set to INC__   will ck and update.
 
-Assigns are required on the Boss RC600 for functionality.
+3. __ASSIGNS__ are required on the Boss RC600 for functionality.
 Place the MEMORY99A.RCO and MEMORY98A.RC0 on your 
 looper and copy their Assigns to other locations...
 
-MEMORY90X.RCO is for sampling, testing, ans setting effects chains. 
+4. MEMORY90X.RCO is for sampling, testing, ans setting effects chains. 
 Little else will work when that PHRASE is loaded.
 
-Once you are happy with the chain and settings save 90 and 
-copy the effects  to the phrase(es) you want.
+     Once you are happy with the chain and settings save 90 and 
+     copy the effects  to the phrase(es) you want.
 
- or   
- __-- Subject To change --__  and the README may not keep up. RC0 files should.
+ or
+    
+          __-- Subject To change --__  and the README may not keep up. RC0 files should.
 
 | ASSIGN | CC Source | Target           |
 |--------|-----------|------------------|
