@@ -10,22 +10,13 @@ Things were tightened up and beautified.
 
 1. Instructions are also in the Document notes:
 2. Designed for use with the Boss RC600.  
+3. __MIDI Channel 1__
+4. __PEDAL MODE may need to be set to INC__   will ck and update.
+5. __ASSIGNS__ are required on the Boss RC600 for functionality.  Place the MEMORY99A.RCO and MEMORY98A.RC0 on your looper and copy their Assigns to other locations...
+4. MEMORY90X.RCO is for sampling, testing, ans setting effects chains. Little else will work when that PHRASE is loaded.
+     Once you are happy with the chain and settings save 90 and copy the effects to the phrase(es) you want.
 
-__MIDI Channel 1__
-
-__PEDAL MODE may need to be set to INC__   will ck and update.
-
-3. __ASSIGNS__ are required on the Boss RC600 for functionality.
-Place the MEMORY99A.RCO and MEMORY98A.RC0 on your 
-looper and copy their Assigns to other locations...
-
-4. MEMORY90X.RCO is for sampling, testing, ans setting effects chains. 
-Little else will work when that PHRASE is loaded.
-
-     Once you are happy with the chain and settings save 90 and 
-     copy the effects  to the phrase(es) you want.
-
- or
+ If you must set your own ASSIGNS, get https://www.rc600editor.com/, and scroll your life away.  ROLAND has nearly 3 pdf pages of possible assigns not including the A-D for banks, and 1-6 for tracks.  There 4 ways to START  At least with Moose's tool you can do it standing up.
     
           __-- Subject To change --__  and the README may not keep up. RC0 files should.
 
