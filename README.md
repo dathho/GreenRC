@@ -72,8 +72,7 @@ Little else will work when that PHRASE is loaded.
 
 
 # FEATURES
-
-     This touchOSC Document incoporates nearly every example of working "cool" touchOSC/lua stuff I could find and make to work over Christmas 2025.  If you want to learn those things like I did, it might be a place to start.
+This touchOSC Document incoporates nearly every example of working "cool" touchOSC/lua stuff I could find and make to work over Christmas 2025.  If you want to learn those things like I did, it might be a place to start.
 
 * Shiny Radial Faders can be a bit jittery on a low powered device so I have a dialed down version. Most of which is there but hidden and only 1 version will be available.  There could be a button to swith to the "dialed" down version, but I don't think it's that important to try and support crappy hardware. 
 * Battery, Clock, and Gig Timer.
