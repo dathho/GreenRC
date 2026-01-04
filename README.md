@@ -26,7 +26,7 @@ Once you are happy with the chain and settings save 90 and
 copy the effects  to the phrase(es) you want.
 
  or   
- __ -- Subject To change --__ and the README may not keep up. The RC0 files should.
+ __-- Subject To change --__  and the README may not keep up. RC0 files should.
 
 | ASSIGN | CC Source | Target           |
 |--------|-----------|------------------|
