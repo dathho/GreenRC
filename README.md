@@ -13,7 +13,7 @@ Designed for use with the Boss RC600.
 
 __MIDI Channel 1__
 
-__PEDAL MODE nay need to be in INC__   will ck and update.
+__PEDAL MODE may need to be set to INC__   will ck and update.
 
 Assigns are required on the Boss RC600 for functionality.
 Place the MEMORY99A.RCO and MEMORY98A.RC0 on your 
