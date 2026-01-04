@@ -5,7 +5,7 @@ This version trades the ASSIGN for selecting tracks 5&6, for a tempo slider.
 A TAP TEMPO on the interface didn't work for me, but I like this.  Comment in the Forums or discussion here.
 Things were tightened up and beautified.
 
-![GrnRC1](https://github.com/user-attachments/assets/ee041af0-d523-4dca-8dcb-5d77d4018e2f)
+![alt text](GrnRC1.jpg)
 
 
 1. Instructions are also in the Document notes:
@@ -16,7 +16,7 @@ Things were tightened up and beautified.
 4. MEMORY90X.RCO is for sampling, testing, and setting effects chains. Little else will work when that PHRASE is loaded.
      Once you are happy with the chain and settings save 90 and copy the effects to the phrase(es) you want.
 
- If you must set your own ASSIGNS, get https://www.rc600editor.com/, and scroll your life away.  ROLAND has nearly 3 pdf pages of possible assigns not including the A-D for banks, and 1-6 for tracks.  There 4 ways to START and STOP everything.  At least with Moose's tool you can do it standing up.
+ If you must set your own ASSIGNS, get https://www.rc600editor.com/, and scroll your life away. ROLAND has nearly 3 pdf pages of possible assigns not including the A-D for banks, and 1-6 for tracks. There are 4 ways to START and STOP everything. At least with Moose's tool you can do it standing up.
     
           __-- Subject To change --__  and the README may not keep up. RC0 files should.
 
