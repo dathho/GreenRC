@@ -71,7 +71,7 @@ This touchOSC Document incoporates nearly every example of working "cool" touchO
 * Only IN effects buttons are active on all but 90. (See below) 
 * Slider, up/down, preset mem selector
 * TRK SEL
-* Pads, KIT, Ryhthm var  Genre and Pattern have to be picked up from the PHRASE.  These can be switched per mem/loop/track but they don't let you access them with assigns. 
+* Pads, KIT, Rhythm Var.  Genre and Pattern have to be picked up from the PHRASE.  These can be switched per mem/loop/track but you can't access them with assigns. 
 * #MEM 90 is to audition and set effects chains. On the other set of ASSIGNS, the inc and TRK FX buttons will not be active. Scroll to the appropriate screen on the RC-600 to show them and you can cycle through bank and type and turn them on and off easily.  Get what you like. Save 90. Thenn copy it's effects (THANK YOU! JMT) to other places.  Don't mess up IN Bank A! or the other parts of your PHRASES.  Set RYHTHM, mixer, IN/OUT trk stuff, etc.
 
 __I'm looking for your best MEMORYXXA.RCO examples.  Maybe with a great pedal mode setup you like and why.  Great rhythm setups or effects chains....__
