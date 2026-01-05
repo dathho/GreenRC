@@ -65,7 +65,7 @@ Things were tightened up and beautified.
 # FEATURES
 This touchOSC Document incoporates nearly every working example of "cool" touchOSC/lua stuff I could find and make to work over Christmas 2025.  If you want to learn those things like I did, it might be a place to start. Follow this repository to see commits.  Great, and very functional, updates to the timer coming I hope. I just couldn't make them work like I want yet.
 
-* Shiny Radial Faders, There is a "dialed down" version. most of which is there but hidden and only 1 version will be available.  There could be a button to swith to the one day, but I don't think it's that important to try and support crappy hardware.  TRK 5&6 are just hidden and disabled so could be traded on and off for BPM.
+* Shiny Radial Faders, There is a "dialed down" version. most of which is there but hidden and only 1 version will be available.  There could be a button to switch one day, but I don't think it's that important to try and support crappy hardware.  TRK 5&6 are just hidden and disabled so could be traded on and off for BPM.
 * Battery, Clock, and Gig Timer.
 * KEY Select is for Manual Vocal effects +3, +5, octave and unison on IN FX 1-4 that are applied only to MIC1 and not recorded on TRK 1-3 on MEM 98,99.  (Most all my PHRASES are set this way) 
 * Only IN effects buttons are active on all but 90. (See below) 
