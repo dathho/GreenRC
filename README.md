@@ -16,7 +16,7 @@ Things were tightened up and beautified.
 4. MEMORY90X.RCO is for sampling, testing, and setting effects chains. Little else will work when that PHRASE is loaded.
      Once you are happy with the chain and settings save 90 and copy the effects to the phrase(es) you want.
 
- If you must set your own ASSIGNS, get https://www.rc600editor.com/, and scroll your life away. ROLAND has nearly 3 pdf pages of possible assigns not including the A-D for banks, and 1-6 for tracks. There are 4 ways to START and STOP everything. At least with Moose's tool you can do it standing up.
+ If you must set your own ASSIGNS, get https://www.rc600editor.com/, and scroll your life away. The RC-600 has nearly 3 pdf pages of possible assigns not including the IN & TRK 4 banks of 4 effects, foreach of 6 tracks. Gets a little complicated after a while. There are 4 ways to START and STOP everything. At least with Moose's tool you can do it standing up.
     
           __-- Subject To change --__  and the README may not keep up. RC0 files should.
 
