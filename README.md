@@ -63,7 +63,7 @@ Things were tightened up and beautified.
 
 
 # FEATURES
-This touchOSC Document incoporates nearly every example of working "cool" touchOSC/lua stuff I could find and make to work over Christmas 2025.  If you want to learn those things like I did, it might be a place to start. Follow this repository to see commits.  I've got some cool updates to the timer coming.
+This touchOSC Document incoporates nearly every working example of "cool" touchOSC/lua stuff I could find and make to work over Christmas 2025.  If you want to learn those things like I did, it might be a place to start. Follow this repository to see commits.  Great, and very functional, updates to the timer coming I hope. I just couldn't make them work like I want yet.
 
 * Shiny Radial Faders can be a bit jittery on a low powered device so I have a dialed down version. Most of which is there but hidden and only 1 version will be available.  There could be a button to swith to the "dialed" down version some day, but I don't think it's that important to try and support crappy hardware.  TRK 5&6 are just hidden and disabled so could be traded on and off for BPM.
 * Battery, Clock, and Gig Timer.
@@ -71,7 +71,7 @@ This touchOSC Document incoporates nearly every example of working "cool" touchO
 * Only IN effects buttons are active on all but 90. (See below) 
 * Slider, up/down, preset mem selector
 * TRK SEL
-* Pads, KIT, Rhythm Var.  Genre and Pattern have to be picked up from the PHRASE.  These can be switched per mem/loop/track but you can't access them with assigns. 
+* Pads, KIT, Rhythm Var.  Genre and Pattern have to be picked up from the PHRASE.  These can be switched per mem/loop/track but you can't access them remotely. 
 * #MEM 90 is to audition and set effects chains. On the other set of ASSIGNS, the inc and TRK FX buttons will not be active. Scroll to the appropriate screen on the RC-600 to show them and you can cycle through bank and type and turn them on and off easily.  Get what you like. Save 90. Thenn copy it's effects (THANK YOU! JMT) to other places.  Don't mess up IN Bank A! or the other parts of your PHRASES.  Set RYHTHM, mixer, IN/OUT trk stuff, etc.
 
 __I'm looking for your best MEMORYXXA.RCO examples.  Maybe with a great pedal mode setup you like and why.  Great rhythm setups or effects chains....__
