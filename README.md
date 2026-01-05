@@ -12,13 +12,13 @@ Things were tightened up and beautified.
 2. Designed for use with the __BOSS RC-600__.  
 3. __MIDI Channel 1__
 4. __PEDAL MODE may need to be set to INC__  I set SYSTEM Pedal Prefs to MEMORY for MODE 1, 2, and 3. 
-5. __ASSIGNS__ are required on the Boss RC600 for functionality.  Place the MEMORY99A.RCO and MEMORY98A.RC0 on your looper and copy their Assigns to other locations...
-4. MEMORY90X.RCO is for sampling, testing, and setting effects chains. Little else will work when that PHRASE is loaded.
+5. __ASSIGNS__ are required on the Boss RC600 for functionality.  Place the MEMORY99A.RC0 and MEMORY98A.RC0 on your looper and copy their Assigns to other locations...
+4. MEMORY90X.RC0 is for sampling, testing, and setting effects chains. Little else will work when that PHRASE is loaded.
      Once you are happy with the chain and settings save 90 and copy the effects to the phrase(s) you want.
 
  If you must set your own ASSIGNS, at least get https://www.rc600editor.com/, and scroll your life away. The RC-600 has nearly 3 pdf pages of possible assigns not including the IN & TRK 4 banks of 4 effects, foreach of 6 tracks. each of which can be 1 of 57 effects.  There are 4 ways to set the START and STOP of everything. Gets a little complicated after a while. At least with Moose's tool you can do it standing up. Remember though, 1 number off, or slightly wrong target, ihere's no telling what you might end up with.
     
-          __-- Subject To change --__  and the README may not keep up. RC0 files should.
+  __-- Subject To change --__  and the README may not keep up but the RC0 files should.
 
 | ASSIGN | CC Source | Target           |
 |--------|-----------|------------------|
@@ -69,7 +69,7 @@ This touchOSC Document incoporates nearly every working example of "cool" touchO
 * Battery, Clock, and Gig Timer.
 * KEY Select is for Manual Vocal effects +3, +5, octave and unison on IN FX 1-4 that are applied only to MIC1 and not recorded on TRK 1-3 on MEM 98,99.  (Most all my PHRASES are set this way) 
 * Only IN effects buttons are active on all but 90. (See below) 
-* Slider, up/down, preset mem selector
+* Slider, up/down, preset memory/phrase selector. PROGRAMCHANGE is one thing that comes from the looper but not if you use the knob, only a pedal.  However, it's not handled correctly and will mess up the slider if receive is enabled.
 * TRK SEL
 * Pads, KIT, Rhythm Var.  Genre and Pattern have to be picked up from the PHRASE.  These can be switched per mem/loop/track but you can't access them remotely. 
 * #MEM 90 is to audition and set effects chains. On the other set of ASSIGNS, the inc and TRK FX buttons will not be active. Scroll to the appropriate screen on the RC-600 to show them and you can cycle through bank and type and turn them on and off easily.  Get what you like. Save 90. Thenn copy it's effects (THANK YOU! JMT) to other places.  Don't mess up IN Bank A! or the other parts of your PHRASES.  Set RHYTHM, mixer, IN/OUT trk stuff, etc.
