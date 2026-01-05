@@ -14,11 +14,11 @@ Things were tightened up and beautified.
 4. __PEDAL MODE may need to be set to INC__  I set SYSTEM Pedal Prefs to MEMORY for MODE 1, 2, and 3. 
 5. __ASSIGNS__ are required on the Boss RC600 for functionality.  Place the MEMORY99A.RC0 and MEMORY98A.RC0 on your looper and copy their Assigns to other locations...
 4. MEMORY90X.RC0 is for sampling, testing, and setting effects chains. Little else will work when that PHRASE is loaded.
-     Once you are happy with the chain and settings save 90 and copy the effects to the phrase(s) you want.
+     Once you are happy with the chain and settings save 90 and copy the effects, rhythm, pedal settings,  to the phrase(s) you want.
 
  If you must set your own ASSIGNS, at least get https://www.rc600editor.com/, and scroll your life away. The RC-600 has nearly 3 pdf pages of possible assigns not including the IN & TRK 4 banks of 4 effects, foreach of 6 tracks. each of which can be 1 of 57 effects.  There are 4 ways to set the START and STOP of everything. Gets a little complicated after a while. At least with Moose's tool you can do it standing up. Remember though, 1 number off, or slightly wrong target, ihere's no telling what you might end up with.
     
-  __-- Subject To change --__  and the README may not keep up but the RC0 files should.
+  __-- Subject To change --__  README may not keep up but the RC0 files should.
 
 | ASSIGN | CC Source | Target           |
 |--------|-----------|------------------|
