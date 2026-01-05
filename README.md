@@ -11,7 +11,7 @@ Things were tightened up and beautified.
 1. Instructions are also in the Document notes:
 2. Designed for use with the Boss RC600.  
 3. __MIDI Channel 1__
-4. __PEDAL MODE may need to be set to INC__   will ck and update.
+4. __PEDAL MODE may need to be set to INC__  I set SYSTEM Pedal Prefs to MEMORY for MODE 1, 2, and 3. 
 5. __ASSIGNS__ are required on the Boss RC600 for functionality.  Place the MEMORY99A.RCO and MEMORY98A.RC0 on your looper and copy their Assigns to other locations...
 4. MEMORY90X.RCO is for sampling, testing, and setting effects chains. Little else will work when that PHRASE is loaded.
      Once you are happy with the chain and settings save 90 and copy the effects to the phrase(es) you want.
