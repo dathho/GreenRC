@@ -1,7 +1,7 @@
 # GreenRC
 A touchOSC document for the BOSS RC-600 6-channel looper.
 
-This version trades the ASSIGN for selecting tracks 5&6, for a tempo slider.
+This version trades the ASSIGN selecting tracks 5&6, for a tempo slider.
 A TAP TEMPO on the interface didn't work for me, but I like this.  Comment in the Forums or discussion here.
 Things were tightened up and beautified.
 
@@ -16,7 +16,7 @@ Things were tightened up and beautified.
 4. MEMORY90X.RCO is for sampling, testing, and setting effects chains. Little else will work when that PHRASE is loaded.
      Once you are happy with the chain and settings save 90 and copy the effects to the phrase(es) you want.
 
- If you must set your own ASSIGNS, get https://www.rc600editor.com/, and scroll your life away. The RC-600 has nearly 3 pdf pages of possible assigns not including the IN & TRK 4 banks of 4 effects, foreach of 6 tracks. Gets a little complicated after a while. There are 4 ways to START and STOP everything. At least with Moose's tool you can do it standing up.
+ If you must set your own ASSIGNS, at least get https://www.rc600editor.com/, and scroll your life away. The RC-600 has nearly 3 pdf pages of possible assigns not including the IN & TRK 4 banks of 4 effects, foreach of 6 tracks. Gets a little complicated after a while. There are 4 ways to set the START and STOP of everything. At least with Moose's tool you can do it standing up. Remember though, 1 number off, or slightly wrong target, ihere's no telling what you might end up with.
     
           __-- Subject To change --__  and the README may not keep up. RC0 files should.
 
@@ -65,7 +65,7 @@ Things were tightened up and beautified.
 # FEATURES
 This touchOSC Document incoporates nearly every example of working "cool" touchOSC/lua stuff I could find and make to work over Christmas 2025.  If you want to learn those things like I did, it might be a place to start. Follow this repository to see commits.  I've got some cool updates to the timer coming.
 
-* Shiny Radial Faders can be a bit jittery on a low powered device so I have a dialed down version. Most of which is there but hidden and only 1 version will be available.  There could be a button to swith to the "dialed" down version, but I don't think it's that important to try and support crappy hardware. 
+* Shiny Radial Faders can be a bit jittery on a low powered device so I have a dialed down version. Most of which is there but hidden and only 1 version will be available.  There could be a button to swith to the "dialed" down version some day, but I don't think it's that important to try and support crappy hardware.  TRK 5&6 are just hidden and disabled so could be traded on and off for BPM.
 * Battery, Clock, and Gig Timer.
 * KEY Select is for Manual Vocal effects +3, +5, octave and unison on IN FX 1-4 that are applied only to MIC1 and not recorded on TRK 1-3 on MEM 98,99.  (Most all my PHRASES are set this way) 
 * Only IN effects buttons are active on all but 90. (See below) 
