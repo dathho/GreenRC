@@ -75,7 +75,7 @@ This touchOSC Document incoporates nearly every working example of "cool" touchO
 * #MEM 90 is to audition and set effects chains. On the other set of ASSIGNS, the inc and TRK FX buttons will not be active. Scroll to the appropriate screen on the RC-600 to show them and you can cycle through bank and type and turn them on and off easily.  Get what you like. Save 90. Thenn copy it's effects (THANK YOU! JMT) to other places.  Don't mess up IN Bank A! or the other parts of your PHRASES.  Set RHYTHM, mixer, IN/OUT trk stuff, etc.
 
 __I'm looking for your best MEMORYXXA.RCO examples.  Maybe with a great pedal mode setup you like and why.  Great rhythm setups or effects chains....__
-  I'm struggling to get a decent Waltz setup I like.
+  I'm struggling to get a decent Waltz I like.
 
 __Will listen to any ideas to make this better.__
 
