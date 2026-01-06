@@ -39,8 +39,7 @@ Things were tightened up and beautified.
 |  15    |  20       | CUR TRK NUM 3+4  |
 |  16    |  21       | TEMPO            |
 
- # For MEMORY90A.RC0
-
+### For MEMORY90A.RC0
 
 | ASSIGN | CC Source | Target           |
 |--------|-----------|------------------|
