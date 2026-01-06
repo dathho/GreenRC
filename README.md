@@ -2,7 +2,7 @@
 A touchOSC document for the BOSS RC-600 6-channel looper.
 
 This version trades the ASSIGN selecting tracks 5&6, for a tempo slider.
-A TAP TEMPO on the interface didn't work for me, but I like this. It's not accurate on some Genre's so it will probably go away.  I think i know why and it could be prgramatically adjusted.  I tap tempo, at times I've had an FRS-7 do BPM inc/dec, even with that my timing's bad.  Comment in the Forums or discussion here.
+A TAP TEMPO on the interface didn't work for me, but I like this. It's not accurate on some Genre's so it will probably go away.  I think I know why and it could be prgramatically adjusted.  I tap tempo, at times I've had an FS-7 do BPM inc/dec, even with that my timing's bad.  Comment in the Forums or discussion here.
 Things were tightened up and beautified.
 
 ![alt text](GrnRC1.jpg)
