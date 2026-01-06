@@ -80,7 +80,7 @@ __Will listen to any ideas to make this better.__
 
 Next Up: 
 * 3D, touch sensitive PADs.  Right now I don't see a path but I'm on the outlook. Will the accelerometer work?  Let me know if you can help!
-* up/down timer in the same footprint.
+* up/down gig timer in the same footprint.
 
 
 It's Green so as not to be too bright onstage.
