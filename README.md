@@ -16,7 +16,7 @@ Things were tightened up and beautified.
 4. MEMORY90X.RC0 is for sampling, testing, and setting effects chains. Little else will work when that PHRASE is loaded.
      Once you are happy with the chain and settings save 90 and copy the effects, rhythm, pedal settings,  to the phrase(s) you want.
 
- If you must set your own ASSIGNS, at least get https://www.rc600editor.com/, and scroll your life away. The RC-600 has nearly 3 pdf pages of possible assigns not including the IN & TRK 4 banks of 4 effects, foreach of 6 tracks. each of which can be 1 of 57 effects.  There are 4 ways to set the START and STOP of everything. Gets a little complicated after a while. At least with Moose's tool you can do it standing up. Remember doing these on the looper, 1 number off, or slightly wrong target, ihere's no telling what you might end up with.
+ If you must set your own ASSIGNS, at least get https://www.rc600editor.com/, and scroll your life away. The RC-600 has nearly 3 pdf pages of possible assigns not including the IN & TRK 4 banks of 4 effects, foreach of 6 tracks. each of which can be 1 of 57 effects.  There are 4 ways to set the START and STOP of everything. Gets a little complicated after a while. At least with Moose's tool you can do it standing up. Remember doing these on the looper, 1 number off, or slightly wrong target, there's no telling what you might end up with.
     
   __-- Subject To change --__  README may not keep up but the RC0 files should.
 
@@ -39,8 +39,7 @@ Things were tightened up and beautified.
 |  15    |  20       | CUR TRK NUM 3+4  |
 |  16    |  21       | TEMPO            |
 
- # For MEMORY90A.RC0
-
+### For MEMORY90A.RC0
 
 | ASSIGN | CC Source | Target           |
 |--------|-----------|------------------|
@@ -75,7 +74,7 @@ This touchOSC Document incoporates nearly every working example of "cool" touchO
 * #MEM 90 is to audition and set effects chains. On the other set of ASSIGNS, the inc and TRK FX buttons will not be active. Scroll to the appropriate screen on the RC-600 to show them and you can cycle through bank and type and turn them on and off easily.  Get what you like. Save 90. Thenn copy it's effects (THANK YOU! JMT) to other places.  Don't mess up IN Bank A! or the other parts of your PHRASES.  Set RHYTHM, mixer, IN/OUT trk stuff, etc.
 
 __I'm looking for your best MEMORYXXA.RCO examples.  Maybe with a great pedal mode setup you like and why.  Great rhythm setups or effects chains....__
-  I'm struggling to get a decent Waltz setup I like.
+  I'm struggling to get a decent Waltz I like.
 
 __Will listen to any ideas to make this better.__
 
