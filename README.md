@@ -1,10 +1,10 @@
 # GreenRC
 A touchOSC document for the BOSS RC-600 6-channel looper.
 
-__NEW__  updated gig timer.  It can now count up or down (from 45 min) in the same footprint.  Press the reset for settings UP:DN to select 45 down. I almost have a radio "Time Down" selector popup working to select 15-90 min. Probably some bugs.
+__NEW__  updated gig timer.  It can now count up or down (from 45 min) in the same footprint.  Press the reset when paused for settings UP:DN to select. DN when 00 will do 45 min. I almost have a radio "Time Down selector" popup working to select 15-90 min. Probably some bugs.
 
 This version trades the ASSIGN selecting tracks 5&6, for a tempo slider.
-A TAP TEMPO on the interface didn't work for me, but I like this. It's not accurate on some Genre's so it will probably go away.  I think I know why and it could be prgramatically adjusted.  I tap tempo, at times I've had an FS-7 do BPM inc/dec, even with that my timing's bad.  Comment in the forums or discussion here.
+A TAP TEMPO on the interface didn't work for me, but I like this. It's not accurate on some Genre's so it will probably go away.  I think I know why and it could be prgramatically adjusted.  I tap tempo, at times I've had an FS-7 do BPM inc/dec, but even with that my timing's bad.  Comment in the forums or discussion here.
 Things were tightened up and beautified.
 
 ![alt text](GrnRC1.jpg)
@@ -80,12 +80,20 @@ This touchOSC Document incoporates nearly every working example of "cool" touchO
 __I'm looking for your best MEMORYXXA.RCO examples.  Maybe with a great pedal mode setup you like and why.  Great rhythm setups or effects chains....__
   I'm struggling to get a decent Waltz I like.
 
-__Will listen to any ideas to make this better.__
 
 Next Up: 
-* 3D, touch sensitive PADs.  Right now I don't see a path but I'm on the outlook. Will the accelerometer work?  Let me know if you can help!
-* up/down gig timer in the same footprint.
+  * 3D, touch sensitive PADs.  Right now I don't see a path but I'm on the outlook. Will the accelerometer work?  Let me know if you can help!
+  * __✔__ up/down gig timer in the same footprint.
+    * with 15-90 "tm dn select" popup radio. 
+  * Additional pages (tabs) to display RC status from a synced backup.
+    1. system
+    2. loop
+    3. phrase
+    4. routing and mixer
+    5. effects
 
+
+__Will listen to any ideas to make this better.__
 
 It's Green so as not to be too bright onstage.
 
