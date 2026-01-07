@@ -1,7 +1,7 @@
 # GreenRC
 A touchOSC document for the BOSS RC-600 6-channel looper.
 
-__NEW__  updated gig timer.  It can now count up or down (from 45 min) in the same footprint.  Press the reset when at 00:00 for settings UP:DN to select 45 down. I almost have a radio "Time Down" selector popup working to select 15-90 min. Probably some bugs.
+__NEW__  updated gig timer.  It can now count up or down (from 45 min) in the same footprint.  Press the reset for settings UP:DN to select 45 down. I almost have a radio "Time Down" selector popup working to select 15-90 min. Probably some bugs.
 
 This version trades the ASSIGN selecting tracks 5&6, for a tempo slider.
 A TAP TEMPO on the interface didn't work for me, but I like this. It's not accurate on some Genre's so it will probably go away.  I think I know why and it could be prgramatically adjusted.  I tap tempo, at times I've had an FS-7 do BPM inc/dec, even with that my timing's bad.  Comment in the forums or discussion here.
@@ -10,13 +10,15 @@ Things were tightened up and beautified.
 ![alt text](GrnRC1.jpg)
 
 
-1. __Instructions are in the Document notes:__ they may not be as updated
+1. __Instructions are in the Document notes:__ they may not be as updated-this is easier.
 2. Designed for use with the __BOSS RC-600__.  
 3. __MIDI Channel 1__
 4. __PEDAL MODE may need to be set to INC__  I set SYSTEM Pedal Prefs to MEMORY for MODE 1, 2, and 3. 
 5. __ASSIGNS__ are required on the Boss RC600 for functionality.  Place the MEMORY99A.RC0 and MEMORY98A.RC0 on your looper and copy their Assigns to other locations...  Copy MEMORY90A.RC0 and select that PHRASE to get the FX inc buttons.
-4. MEMORY90X.RC0 is for sampling, testing, and setting effects chains. Little else will work when that PHRASE is loaded.
+6. MEMORY90X.RC0 is for sampling, testing, and setting effects chains. Little else will work when that PHRASE is loaded.
      Once you are happy with the chain and settings save 90 and copy the effects, rhythm, pedal settings,  to the phrase(s) you want.
+7. __NOTE__ most of my PHRASES have all six tracks set RC-5 style (TRKn REC/PLAY 4) on MODE 1, with effects and various other things in the other MODE(s).  I reccomend you get a MODE setup you like and keep it the same.
+
 
  If you must set your own ASSIGNS, at least get https://www.rc600editor.com/, and scroll your life away. The RC-600 has nearly 3 pdf pages of possible assigns not including the IN & TRK 4 banks of 4 effects, foreach of 6 tracks. each of which can be 1 of 57 effects.  There are 4 ways to set the START and STOP of everything. Gets a little complicated after a while. At least with Moose's tool you can do it standing up. 1 number off, or slightly wrong target, there's no telling what you might end up with. The MEMORYXXA.RC0 files are provided to drop on your looper so you don't have to set them yourself. Still, you should use RC-Editor to checkk them.
     
