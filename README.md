@@ -1,7 +1,7 @@
 # GreenRC
 A touchOSC document for the BOSS RC-600 6-channel looper.
 
-__NEW__  updated gig timer.  It can now count up or down (from 45 min) in the same footprint.  Press the reset when paused for settings UP:DN to select. DN when 00 will do 45 min. I almost have a radio "Time Down selector" popup working to select 15-90 min. Probably some bugs.
+    __NEW__  updated gig timer.  It can now count up or down (from 45 min) in the same footprint.  Press the reset when paused for settings UP:DN to select. DN when 00:00 will set for 45 min. Radio button "Time Down Selector" popup almost working to select 15-90 min count down time. Probably some bugs.
 
 This version trades the ASSIGN selecting tracks 5&6, for a tempo slider.
 A TAP TEMPO on the interface didn't work for me, but I like this. It's not accurate on some Genre's so it will probably go away.  I think I know why and it could be prgramatically adjusted.  I tap tempo, at times I've had an FS-7 do BPM inc/dec, but even with that my timing's bad.  Comment in the forums or discussion here.
@@ -66,7 +66,7 @@ Things were tightened up and beautified.
 
 
 # FEATURES
-This touchOSC Document incoporates nearly every working example of "cool" touchOSC/lua stuff I could find and make to work over Christmas 2025.  If you want to learn those things like I did, it might be a place to start. Follow this repository to see commits.  Great, and very functional, updates to the timer coming I hope. I just couldn't make them work like I want yet.
+This touchOSC Document incorporates nearly every working example of "cool" touchOSC/lua stuff I could find and make to work over Christmas 2025.  If you want to learn those things like I did, it might be a place to start. Follow this repository to see commits.  Great, and very functional, updates to the timer coming I hope. I just couldn't make them work like I want yet.
 
 * Shiny Radial Faders, There is a "dialed down" version. most of which is there but hidden and only 1 version will be available.  There could be a button to switch one day, but I don't think it's that important to try and support crappy hardware.  TRK 5&6 are just hidden and disabled so could be traded on and off for BPM.
 * Battery, Clock, and Gig Timer.
@@ -84,13 +84,17 @@ __I'm looking for your best MEMORYXXA.RCO examples.  Maybe with a great pedal mo
 Next Up: 
   * 3D, touch sensitive PADs.  Right now I don't see a path but I'm on the outlook. Will the accelerometer work?  Let me know if you can help!
   * __✔__ up/down gig timer in the same footprint.
-    * with 15-90 "tm dn select" popup radio. 
+    * with 15-90 minute "tm dn select" popup radio. 
   * Additional pages (tabs) to display RC status from a synced backup.
     1. system
-    2. loop
-    3. phrase
-    4. routing and mixer
-    5. effects
+
+          pedals, prefs,,,
+    2. phrase/loop
+
+          pedals, assigns,status,prefs,,,
+    3. track
+
+         routing and mixer, effects,,,
 
 
 __Will listen to any ideas to make this better.__
