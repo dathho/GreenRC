@@ -4,7 +4,7 @@ A touchOSC document for the BOSS RC-600 6-channel looper.
 __NEW__  updated gig timer.  It can now count up or down (from 45 min) in the same footprint.  Press the reset when paused for settings UP:DN to select. DN when 00:00 will set for 45 min. Radio button "Time Down Selector" popup almost working to select 15-90 min count down time. Probably some bugs.
 
 This version trades the ASSIGN selecting tracks 5&6, for a tempo slider.
-A TAP TEMPO on the interface didn't work for me, but I like this. It's not accurate on some Genre's so it will probably go away.  I think I know why and it could be prgramatically adjusted.  I tap tempo, at times I've had an FS-7 do BPM inc/dec, but even with that my timing's bad.  Comment in the forums or discussion here.
+A TAP TEMPO on the interface didn't work for me, but I like this. It's not accurate on some Genre's so it will probably go away.  I think I know why and it can be adjusted, but it's work.  I tap tempo so don't care much, at times I've had an FS-7 do BPM inc/dec, but even with that my timing's still off.  Comment in the forums or discussion here.
 Things were tightened up and beautified.
 
 ![alt text](GrnRC1.jpg)
@@ -98,6 +98,15 @@ Next Up:
 
 
 __Will listen to any ideas to make this better.__
+
+__Much thanks to...__  
+David Shanhun http://www.davidshanhun.com for the original touchOSC Document, 
+
+Tim Corpus - https://timcorpus.net/index.php/touch...
+
+Ross Gallagher Music - https://www.youtube.com/channel/UCfh5C__TmVeweAh2uZItD6A
+
+and Ken Mitchell - https://www.youtube.com/channel/UCGdmYQqS2vp9Qh2FqKOh9FQ
 
 It's Green so as not to be too bright onstage.
 
