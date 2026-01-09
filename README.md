@@ -2,7 +2,7 @@
 A touchOSC document for the BOSS RC-600 6-channel looper.
 
 __NEW__  
-__updated gig timer__.  Can now count up or down with DN time selector in the same footprint.  Press the reset when paused for settings UP:DN to select. DN will popup 15-90 min. Radio button.   Probably some bugs.
+__UPDATED TIMER__.  Can now count up or down with DN time selector in the same footprint.  Press the reset when paused for settings UP:DN to select. DN will popup 15-90 min. Radio button.   Probably some bugs.
 __NEW__
 
 This version trades the ASSIGN selecting tracks 5&6, for a tempo slider.
