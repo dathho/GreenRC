@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <database name="RC-600" revision="0">
-<mem id="1">
+<mem id="12">
   <NAME>
-    <A>83</A>
-    <B>101</B>
-    <C>116</C>
-    <D>117</D>
-    <E>112</E>
-    <F>50</F>
-    <G>32</G>
-    <H>32</H>
-    <I>32</I>
-    <J>32</J>
-    <K>32</K>
-    <L>32</L>
-  </NAME>
+  <A>116</A>
+  <B>101</B>
+  <C>109</C>
+  <D>112</D>
+  <E>111</E>
+  <F>32</F>
+  <G>116</G>
+  <H>101</H>
+  <I>115</I>
+  <J>116</J>
+  <K>32</K>
+  <L>32</L>
+</NAME>
   <TRACK1>
     <A>0</A>
     <B>0</B>
     <C>50</C>
     <D>100</D>
     <E>0</E>
-    <F>2</F>
+    <F>0</F>
     <G>0</G>
-    <H>0</H>
-    <I>1</I>
-    <J>0</J>
+    <H>1</H>
+    <I>0</I>
+    <J>15</J>
     <K>0</K>
     <L>1</L>
     <M>1</M>
@@ -33,13 +33,13 @@
     <O>1</O>
     <P>0</P>
     <Q>127</Q>
-    <R>0</R>
-    <S>0</S>
+    <R>2</R>
+    <S>8</S>
     <T>0</T>
-    <U>1200</U>
-    <V>88200</V>
-    <W>0</W>
-    <X>0</X>
+    <U>850</U>
+    <V>124517</V>
+    <W>1</W>
+    <X>996142</X>
   </TRACK1>
   <TRACK2>
     <A>0</A>
@@ -47,11 +47,11 @@
     <C>50</C>
     <D>100</D>
     <E>0</E>
-    <F>2</F>
+    <F>0</F>
     <G>0</G>
-    <H>0</H>
-    <I>1</I>
-    <J>1</J>
+    <H>1</H>
+    <I>0</I>
+    <J>15</J>
     <K>0</K>
     <L>1</L>
     <M>1</M>
@@ -59,13 +59,13 @@
     <O>1</O>
     <P>0</P>
     <Q>127</Q>
-    <R>1</R>
-    <S>0</S>
+    <R>2</R>
+    <S>8</S>
     <T>0</T>
-    <U>1200</U>
-    <V>88200</V>
-    <W>0</W>
-    <X>0</X>
+    <U>850</U>
+    <V>124517</V>
+    <W>1</W>
+    <X>996142</X>
   </TRACK2>
   <TRACK3>
     <A>0</A>
@@ -73,11 +73,11 @@
     <C>50</C>
     <D>100</D>
     <E>0</E>
-    <F>2</F>
+    <F>0</F>
     <G>0</G>
     <H>1</H>
-    <I>1</I>
-    <J>1</J>
+    <I>0</I>
+    <J>15</J>
     <K>0</K>
     <L>1</L>
     <M>1</M>
@@ -85,13 +85,13 @@
     <O>1</O>
     <P>0</P>
     <Q>127</Q>
-    <R>1</R>
-    <S>0</S>
+    <R>2</R>
+    <S>8</S>
     <T>0</T>
-    <U>1200</U>
-    <V>88200</V>
-    <W>0</W>
-    <X>0</X>
+    <U>850</U>
+    <V>124517</V>
+    <W>1</W>
+    <X>996142</X>
   </TRACK3>
   <TRACK4>
     <A>0</A>
@@ -102,8 +102,8 @@
     <F>0</F>
     <G>0</G>
     <H>1</H>
-    <I>1</I>
-    <J>159</J>
+    <I>0</I>
+    <J>1</J>
     <K>0</K>
     <L>1</L>
     <M>1</M>
@@ -111,13 +111,13 @@
     <O>1</O>
     <P>0</P>
     <Q>127</Q>
-    <R>2</R>
-    <S>152</S>
+    <R>1</R>
+    <S>0</S>
     <T>0</T>
-    <U>1360</U>
-    <V>77823</V>
-    <W>1</W>
-    <X>11829096</X>
+    <U>1200</U>
+    <V>88200</V>
+    <W>0</W>
+    <X>0</X>
   </TRACK4>
   <TRACK5>
     <A>0</A>
@@ -172,10 +172,10 @@
     <X>0</X>
   </TRACK6>
   <MASTER>
-    <A>1360</A>
-    <B>77823</B>
+    <A>850</A>
+    <B>124517</B>
     <C>0</C>
-    <D>152</D>
+    <D>8</D>
   </MASTER>
   <REC>
     <A>1</A>
@@ -186,7 +186,7 @@
     <F>63</F>
   </REC>
   <PLAY>
-    <A>2</A>
+    <A>0</A>
     <B>5</B>
     <C>5</C>
     <D>63</D>
@@ -196,19 +196,19 @@
     <H>1</H>
   </PLAY>
   <RHYTHM>
-    <A>0</A>
-    <B>3</B>
-    <C>2</C>
+    <A>19</A>
+    <B>4</B>
+    <C>0</C>
     <D>0</D>
-    <E>1</E>
+    <E>0</E>
     <F>2</F>
     <G>1</G>
     <H>0</H>
-    <I>1</I>
-    <J>1</J>
+    <I>0</I>
+    <J>0</J>
     <K>0</K>
     <L>1</L>
-    <M>1</M>
+    <M>0</M>
   </RHYTHM>
   <ICTL1_TRACK1_FX>
     <A>15</A>
@@ -713,6 +713,7 @@
     <P>1</P>
     <Q>0</Q>
     <R>0</R>
+    <S>1</S>
   </ROUTING>
   <MIXER>
     <A>100</A>
@@ -720,11 +721,11 @@
     <C>100</C>
     <D>0</D>
     <E>100</E>
-    <F>1</F>
+    <F>0</F>
     <G>100</G>
     <H>0</H>
     <I>100</I>
-    <J>1</J>
+    <J>0</J>
     <K>100</K>
     <L>0</L>
     <M>100</M>
@@ -916,7 +917,7 @@
     <B>1</B>
   </FIXED_VALUE>
 </mem>
-<ifx id="1">
+<ifx id="12">
   <SETUP>
     <A>0</A>
   </SETUP>
@@ -928,7 +929,7 @@
   <AA>
     <A>0</A>
     <B>0</B>
-    <C>17</C>
+    <C>0</C>
     <D>0</D>
   </AA>
   <AA_LPF>
@@ -936,6 +937,7 @@
     <B>50</B>
     <C>50</C>
     <D>50</D>
+    <E>0</E>
   </AA_LPF>
   <AA_LPF_SEQ>
     <A>0</A>
@@ -966,6 +968,7 @@
     <B>50</B>
     <C>50</C>
     <D>50</D>
+    <E>0</E>
   </AA_BPF>
   <AA_BPF_SEQ>
     <A>0</A>
@@ -996,6 +999,7 @@
     <B>50</B>
     <C>50</C>
     <D>50</D>
+    <E>0</E>
   </AA_HPF>
   <AA_HPF_SEQ>
     <A>0</A>
@@ -1028,6 +1032,8 @@
     <D>50</D>
     <E>100</E>
     <F>100</F>
+    <G>0</G>
+    <H>1</H>
   </AA_PHASER>
   <AA_PHASER_SEQ>
     <A>0</A>
@@ -1061,6 +1067,7 @@
     <E>0</E>
     <F>100</F>
     <G>100</G>
+    <H>0</H>
   </AA_FLANGER>
   <AA_FLANGER_SEQ>
     <A>0</A>
@@ -1128,6 +1135,7 @@
   <AA_RING_MODULATOR>
     <A>50</A>
     <B>50</B>
+    <C>1</C>
   </AA_RING_MODULATOR>
   <AA_RING_MODULATOR_SEQ>
     <A>0</A>
@@ -1155,6 +1163,7 @@
   </AA_RING_MODULATOR_SEQ>
   <AA_G2B>
     <A>50</A>
+    <B>1</B>
   </AA_G2B>
   <AA_SUSTAINER>
     <A>50</A>
@@ -1177,9 +1186,11 @@
     <A>50</A>
     <B>50</B>
     <C>50</C>
+    <D>1</D>
   </AA_SLOW_GEAR>
   <AA_TRANSPOSE>
     <A>12</A>
+    <B>1</B>
   </AA_TRANSPOSE>
   <AA_TRANSPOSE_SEQ>
     <A>0</A>
@@ -1208,6 +1219,7 @@
   <AA_PITCH_BEND>
     <A>6</A>
     <B>50</B>
+    <C>1</C>
   </AA_PITCH_BEND>
   <AA_PITCH_BEND_SEQ>
     <A>0</A>
@@ -1236,6 +1248,7 @@
   <AA_ROBOT>
     <A>0</A>
     <B>50</B>
+    <C>1</C>
   </AA_ROBOT>
   <AA_ELECTRIC>
     <A>12</A>
@@ -1267,6 +1280,7 @@
     <C>50</C>
     <D>50</D>
     <E>50</E>
+    <F>1</F>
   </AA_VOCODER>
   <AA_OSC_VOCODER>
     <A>0</A>
@@ -1340,12 +1354,18 @@
     <C>20</C>
     <D>20</D>
     <E>20</E>
+    <F>16</F>
+    <G>1</G>
+    <H>22</H>
+    <I>1</I>
   </AA_EQ>
   <AA_ISOLATOR>
     <A>0</A>
     <B>6</B>
     <C>50</C>
     <D>100</D>
+    <E>0</E>
+    <F>0</F>
   </AA_ISOLATOR>
   <AA_ISOLATOR_SEQ>
     <A>0</A>
@@ -1373,7 +1393,8 @@
   </AA_ISOLATOR_SEQ>
   <AA_OCTAVE>
     <A>0</A>
-    <B>50</B>
+    <B>1</B>
+    <C>50</C>
   </AA_OCTAVE>
   <AA_OCTAVE_SEQ>
     <A>0</A>
@@ -1401,9 +1422,10 @@
   </AA_OCTAVE_SEQ>
   <AA_AUTO_PAN>
     <A>64</A>
-    <B>50</B>
+    <B>0</B>
     <C>50</C>
     <D>0</D>
+    <E>0</E>
   </AA_AUTO_PAN>
   <AA_MANUAL_PAN>
     <A>50</A>
@@ -1583,6 +1605,14 @@
     <E>29</E>
     <F>50</F>
   </AA_TAPE_ECHO>
+  <AA_TAPE_ECHO_V505V2>
+    <A>50</A>
+    <B>50</B>
+    <C>100</C>
+    <D>50</D>
+    <E>50</E>
+    <F>50</F>
+  </AA_TAPE_ECHO_V505V2>
   <AA_GRANULAR_DELAY>
     <A>50</A>
     <B>70</B>
@@ -1598,11 +1628,17 @@
     <D>50</D>
   </AA_TWIST>
   <AA_ROLL>
-    <A>4</A>
+    <A>8</A>
     <B>50</B>
     <C>0</C>
     <D>50</D>
   </AA_ROLL>
+  <AA_ROLL_V505V2>
+    <A>8</A>
+    <B>50</B>
+    <C>0</C>
+    <D>50</D>
+  </AA_ROLL_V505V2>
   <AA_FREEZE>
     <A>30</A>
     <B>30</B>
@@ -1648,7 +1684,7 @@
   <AB>
     <A>0</A>
     <B>0</B>
-    <C>17</C>
+    <C>9</C>
     <D>0</D>
   </AB>
   <AB_LPF>
@@ -1656,6 +1692,7 @@
     <B>50</B>
     <C>50</C>
     <D>50</D>
+    <E>0</E>
   </AB_LPF>
   <AB_LPF_SEQ>
     <A>0</A>
@@ -1686,6 +1723,7 @@
     <B>50</B>
     <C>50</C>
     <D>50</D>
+    <E>0</E>
   </AB_BPF>
   <AB_BPF_SEQ>
     <A>0</A>
@@ -1716,6 +1754,7 @@
     <B>50</B>
     <C>50</C>
     <D>50</D>
+    <E>0</E>
   </AB_HPF>
   <AB_HPF_SEQ>
     <A>0</A>
@@ -1748,6 +1787,8 @@
     <D>50</D>
     <E>100</E>
     <F>100</F>
+    <G>0</G>
+    <H>1</H>
   </AB_PHASER>
   <AB_PHASER_SEQ>
     <A>0</A>
@@ -1781,6 +1822,7 @@
     <E>0</E>
     <F>100</F>
     <G>100</G>
+    <H>0</H>
   </AB_FLANGER>
   <AB_FLANGER_SEQ>
     <A>0</A>
@@ -1848,6 +1890,7 @@
   <AB_RING_MODULATOR>
     <A>50</A>
     <B>50</B>
+    <C>1</C>
   </AB_RING_MODULATOR>
   <AB_RING_MODULATOR_SEQ>
     <A>0</A>
@@ -1875,6 +1918,7 @@
   </AB_RING_MODULATOR_SEQ>
   <AB_G2B>
     <A>50</A>
+    <B>1</B>
   </AB_G2B>
   <AB_SUSTAINER>
     <A>50</A>
@@ -1897,9 +1941,11 @@
     <A>50</A>
     <B>50</B>
     <C>50</C>
+    <D>1</D>
   </AB_SLOW_GEAR>
   <AB_TRANSPOSE>
     <A>12</A>
+    <B>1</B>
   </AB_TRANSPOSE>
   <AB_TRANSPOSE_SEQ>
     <A>0</A>
@@ -1928,6 +1974,7 @@
   <AB_PITCH_BEND>
     <A>6</A>
     <B>50</B>
+    <C>1</C>
   </AB_PITCH_BEND>
   <AB_PITCH_BEND_SEQ>
     <A>0</A>
@@ -1956,6 +2003,7 @@
   <AB_ROBOT>
     <A>0</A>
     <B>50</B>
+    <C>1</C>
   </AB_ROBOT>
   <AB_ELECTRIC>
     <A>12</A>
@@ -1965,7 +2013,7 @@
     <E>0</E>
   </AB_ELECTRIC>
   <AB_HARMONIST_MANUAL>
-    <A>2</A>
+    <A>6</A>
     <B>50</B>
     <C>50</C>
     <D>0</D>
@@ -1987,6 +2035,7 @@
     <C>50</C>
     <D>50</D>
     <E>50</E>
+    <F>1</F>
   </AB_VOCODER>
   <AB_OSC_VOCODER>
     <A>0</A>
@@ -2060,12 +2109,18 @@
     <C>20</C>
     <D>20</D>
     <E>20</E>
+    <F>16</F>
+    <G>1</G>
+    <H>22</H>
+    <I>1</I>
   </AB_EQ>
   <AB_ISOLATOR>
     <A>0</A>
     <B>6</B>
     <C>50</C>
     <D>100</D>
+    <E>0</E>
+    <F>0</F>
   </AB_ISOLATOR>
   <AB_ISOLATOR_SEQ>
     <A>0</A>
@@ -2093,7 +2148,8 @@
   </AB_ISOLATOR_SEQ>
   <AB_OCTAVE>
     <A>0</A>
-    <B>50</B>
+    <B>1</B>
+    <C>50</C>
   </AB_OCTAVE>
   <AB_OCTAVE_SEQ>
     <A>0</A>
@@ -2121,9 +2177,10 @@
   </AB_OCTAVE_SEQ>
   <AB_AUTO_PAN>
     <A>64</A>
-    <B>50</B>
+    <B>0</B>
     <C>50</C>
     <D>0</D>
+    <E>0</E>
   </AB_AUTO_PAN>
   <AB_MANUAL_PAN>
     <A>50</A>
@@ -2303,6 +2360,14 @@
     <E>29</E>
     <F>50</F>
   </AB_TAPE_ECHO>
+  <AB_TAPE_ECHO_V505V2>
+    <A>50</A>
+    <B>50</B>
+    <C>100</C>
+    <D>50</D>
+    <E>50</E>
+    <F>50</F>
+  </AB_TAPE_ECHO_V505V2>
   <AB_GRANULAR_DELAY>
     <A>50</A>
     <B>70</B>
@@ -2318,11 +2383,17 @@
     <D>50</D>
   </AB_TWIST>
   <AB_ROLL>
-    <A>4</A>
+    <A>8</A>
     <B>50</B>
     <C>0</C>
     <D>50</D>
   </AB_ROLL>
+  <AB_ROLL_V505V2>
+    <A>8</A>
+    <B>50</B>
+    <C>0</C>
+    <D>50</D>
+  </AB_ROLL_V505V2>
   <AB_FREEZE>
     <A>30</A>
     <B>30</B>
@@ -2368,7 +2439,7 @@
   <AC>
     <A>0</A>
     <B>0</B>
-    <C>17</C>
+    <C>33</C>
     <D>0</D>
   </AC>
   <AC_LPF>
@@ -2376,6 +2447,7 @@
     <B>50</B>
     <C>50</C>
     <D>50</D>
+    <E>0</E>
   </AC_LPF>
   <AC_LPF_SEQ>
     <A>0</A>
@@ -2406,6 +2478,7 @@
     <B>50</B>
     <C>50</C>
     <D>50</D>
+    <E>0</E>
   </AC_BPF>
   <AC_BPF_SEQ>
     <A>0</A>
@@ -2436,6 +2509,7 @@
     <B>50</B>
     <C>50</C>
     <D>50</D>
+    <E>0</E>
   </AC_HPF>
   <AC_HPF_SEQ>
     <A>0</A>
@@ -2468,6 +2542,8 @@
     <D>50</D>
     <E>100</E>
     <F>100</F>
+    <G>0</G>
+    <H>1</H>
   </AC_PHASER>
   <AC_PHASER_SEQ>
     <A>0</A>
@@ -2501,6 +2577,7 @@
     <E>0</E>
     <F>100</F>
     <G>100</G>
+    <H>0</H>
   </AC_FLANGER>
   <AC_FLANGER_SEQ>
     <A>0</A>
@@ -2568,6 +2645,7 @@
   <AC_RING_MODULATOR>
     <A>50</A>
     <B>50</B>
+    <C>1</C>
   </AC_RING_MODULATOR>
   <AC_RING_MODULATOR_SEQ>
     <A>0</A>
@@ -2595,6 +2673,7 @@
   </AC_RING_MODULATOR_SEQ>
   <AC_G2B>
     <A>50</A>
+    <B>1</B>
   </AC_G2B>
   <AC_SUSTAINER>
     <A>50</A>
@@ -2617,9 +2696,11 @@
     <A>50</A>
     <B>50</B>
     <C>50</C>
+    <D>1</D>
   </AC_SLOW_GEAR>
   <AC_TRANSPOSE>
     <A>12</A>
+    <B>1</B>
   </AC_TRANSPOSE>
   <AC_TRANSPOSE_SEQ>
     <A>0</A>
@@ -2648,6 +2729,7 @@
   <AC_PITCH_BEND>
     <A>6</A>
     <B>50</B>
+    <C>1</C>
   </AC_PITCH_BEND>
   <AC_PITCH_BEND_SEQ>
     <A>0</A>
@@ -2676,6 +2758,7 @@
   <AC_ROBOT>
     <A>0</A>
     <B>50</B>
+    <C>1</C>
   </AC_ROBOT>
   <AC_ELECTRIC>
     <A>12</A>
@@ -2685,7 +2768,7 @@
     <E>0</E>
   </AC_ELECTRIC>
   <AC_HARMONIST_MANUAL>
-    <A>5</A>
+    <A>6</A>
     <B>50</B>
     <C>50</C>
     <D>0</D>
@@ -2707,6 +2790,7 @@
     <C>50</C>
     <D>50</D>
     <E>50</E>
+    <F>1</F>
   </AC_VOCODER>
   <AC_OSC_VOCODER>
     <A>0</A>
@@ -2780,12 +2864,18 @@
     <C>20</C>
     <D>20</D>
     <E>20</E>
+    <F>16</F>
+    <G>1</G>
+    <H>22</H>
+    <I>1</I>
   </AC_EQ>
   <AC_ISOLATOR>
     <A>0</A>
     <B>6</B>
     <C>50</C>
     <D>100</D>
+    <E>0</E>
+    <F>0</F>
   </AC_ISOLATOR>
   <AC_ISOLATOR_SEQ>
     <A>0</A>
@@ -2813,7 +2903,8 @@
   </AC_ISOLATOR_SEQ>
   <AC_OCTAVE>
     <A>0</A>
-    <B>50</B>
+    <B>1</B>
+    <C>50</C>
   </AC_OCTAVE>
   <AC_OCTAVE_SEQ>
     <A>0</A>
@@ -2841,9 +2932,10 @@
   </AC_OCTAVE_SEQ>
   <AC_AUTO_PAN>
     <A>64</A>
-    <B>50</B>
+    <B>0</B>
     <C>50</C>
     <D>0</D>
+    <E>0</E>
   </AC_AUTO_PAN>
   <AC_MANUAL_PAN>
     <A>50</A>
@@ -3023,6 +3115,14 @@
     <E>29</E>
     <F>50</F>
   </AC_TAPE_ECHO>
+  <AC_TAPE_ECHO_V505V2>
+    <A>50</A>
+    <B>50</B>
+    <C>100</C>
+    <D>50</D>
+    <E>50</E>
+    <F>50</F>
+  </AC_TAPE_ECHO_V505V2>
   <AC_GRANULAR_DELAY>
     <A>50</A>
     <B>70</B>
@@ -3038,11 +3138,17 @@
     <D>50</D>
   </AC_TWIST>
   <AC_ROLL>
-    <A>4</A>
+    <A>8</A>
     <B>50</B>
     <C>0</C>
     <D>50</D>
   </AC_ROLL>
+  <AC_ROLL_V505V2>
+    <A>8</A>
+    <B>50</B>
+    <C>0</C>
+    <D>50</D>
+  </AC_ROLL_V505V2>
   <AC_FREEZE>
     <A>30</A>
     <B>30</B>
@@ -3088,7 +3194,7 @@
   <AD>
     <A>0</A>
     <B>0</B>
-    <C>17</C>
+    <C>35</C>
     <D>0</D>
   </AD>
   <AD_LPF>
@@ -3096,6 +3202,7 @@
     <B>50</B>
     <C>50</C>
     <D>50</D>
+    <E>0</E>
   </AD_LPF>
   <AD_LPF_SEQ>
     <A>0</A>
@@ -3126,6 +3233,7 @@
     <B>50</B>
     <C>50</C>
     <D>50</D>
+    <E>0</E>
   </AD_BPF>
   <AD_BPF_SEQ>
     <A>0</A>
@@ -3156,6 +3264,7 @@
     <B>50</B>
     <C>50</C>
     <D>50</D>
+    <E>0</E>
   </AD_HPF>
   <AD_HPF_SEQ>
     <A>0</A>
@@ -3188,6 +3297,8 @@
     <D>50</D>
     <E>100</E>
     <F>100</F>
+    <G>0</G>
+    <H>1</H>
   </AD_PHASER>
   <AD_PHASER_SEQ>
     <A>0</A>
@@ -3221,6 +3332,7 @@
     <E>0</E>
     <F>100</F>
     <G>100</G>
+    <H>0</H>
   </AD_FLANGER>
   <AD_FLANGER_SEQ>
     <A>0</A>
@@ -3288,6 +3400,7 @@
   <AD_RING_MODULATOR>
     <A>50</A>
     <B>50</B>
+    <C>1</C>
   </AD_RING_MODULATOR>
   <AD_RING_MODULATOR_SEQ>
     <A>0</A>
@@ -3315,6 +3428,7 @@
   </AD_RING_MODULATOR_SEQ>
   <AD_G2B>
     <A>50</A>
+    <B>1</B>
   </AD_G2B>
   <AD_SUSTAINER>
     <A>50</A>
@@ -3337,9 +3451,11 @@
     <A>50</A>
     <B>50</B>
     <C>50</C>
+    <D>1</D>
   </AD_SLOW_GEAR>
   <AD_TRANSPOSE>
     <A>12</A>
+    <B>1</B>
   </AD_TRANSPOSE>
   <AD_TRANSPOSE_SEQ>
     <A>0</A>
@@ -3368,6 +3484,7 @@
   <AD_PITCH_BEND>
     <A>6</A>
     <B>50</B>
+    <C>1</C>
   </AD_PITCH_BEND>
   <AD_PITCH_BEND_SEQ>
     <A>0</A>
@@ -3396,6 +3513,7 @@
   <AD_ROBOT>
     <A>0</A>
     <B>50</B>
+    <C>1</C>
   </AD_ROBOT>
   <AD_ELECTRIC>
     <A>12</A>
@@ -3405,7 +3523,7 @@
     <E>0</E>
   </AD_ELECTRIC>
   <AD_HARMONIST_MANUAL>
-    <A>0</A>
+    <A>6</A>
     <B>50</B>
     <C>50</C>
     <D>0</D>
@@ -3427,6 +3545,7 @@
     <C>50</C>
     <D>50</D>
     <E>50</E>
+    <F>1</F>
   </AD_VOCODER>
   <AD_OSC_VOCODER>
     <A>0</A>
@@ -3500,12 +3619,18 @@
     <C>20</C>
     <D>20</D>
     <E>20</E>
+    <F>16</F>
+    <G>1</G>
+    <H>22</H>
+    <I>1</I>
   </AD_EQ>
   <AD_ISOLATOR>
     <A>0</A>
     <B>6</B>
     <C>50</C>
     <D>100</D>
+    <E>0</E>
+    <F>0</F>
   </AD_ISOLATOR>
   <AD_ISOLATOR_SEQ>
     <A>0</A>
@@ -3533,7 +3658,8 @@
   </AD_ISOLATOR_SEQ>
   <AD_OCTAVE>
     <A>0</A>
-    <B>50</B>
+    <B>1</B>
+    <C>50</C>
   </AD_OCTAVE>
   <AD_OCTAVE_SEQ>
     <A>0</A>
@@ -3561,9 +3687,10 @@
   </AD_OCTAVE_SEQ>
   <AD_AUTO_PAN>
     <A>64</A>
-    <B>50</B>
+    <B>0</B>
     <C>50</C>
     <D>0</D>
+    <E>0</E>
   </AD_AUTO_PAN>
   <AD_MANUAL_PAN>
     <A>50</A>
@@ -3743,6 +3870,14 @@
     <E>29</E>
     <F>50</F>
   </AD_TAPE_ECHO>
+  <AD_TAPE_ECHO_V505V2>
+    <A>50</A>
+    <B>50</B>
+    <C>100</C>
+    <D>50</D>
+    <E>50</E>
+    <F>50</F>
+  </AD_TAPE_ECHO_V505V2>
   <AD_GRANULAR_DELAY>
     <A>50</A>
     <B>70</B>
@@ -3758,11 +3893,17 @@
     <D>50</D>
   </AD_TWIST>
   <AD_ROLL>
-    <A>4</A>
+    <A>8</A>
     <B>50</B>
     <C>0</C>
     <D>50</D>
   </AD_ROLL>
+  <AD_ROLL_V505V2>
+    <A>8</A>
+    <B>50</B>
+    <C>0</C>
+    <D>50</D>
+  </AD_ROLL_V505V2>
   <AD_FREEZE>
     <A>30</A>
     <B>30</B>
@@ -3813,7 +3954,7 @@
   <BA>
     <A>0</A>
     <B>0</B>
-    <C>18</C>
+    <C>0</C>
     <D>0</D>
   </BA>
   <BA_LPF>
@@ -3821,6 +3962,7 @@
     <B>50</B>
     <C>50</C>
     <D>50</D>
+    <E>0</E>
   </BA_LPF>
   <BA_LPF_SEQ>
     <A>0</A>
@@ -3851,6 +3993,7 @@
     <B>50</B>
     <C>50</C>
     <D>50</D>
+    <E>0</E>
   </BA_BPF>
   <BA_BPF_SEQ>
     <A>0</A>
@@ -3881,6 +4024,7 @@
     <B>50</B>
     <C>50</C>
     <D>50</D>
+    <E>0</E>
   </BA_HPF>
   <BA_HPF_SEQ>
     <A>0</A>
@@ -3913,6 +4057,8 @@
     <D>50</D>
     <E>100</E>
     <F>100</F>
+    <G>0</G>
+    <H>1</H>
   </BA_PHASER>
   <BA_PHASER_SEQ>
     <A>0</A>
@@ -3946,6 +4092,7 @@
     <E>0</E>
     <F>100</F>
     <G>100</G>
+    <H>0</H>
   </BA_FLANGER>
   <BA_FLANGER_SEQ>
     <A>0</A>
@@ -4013,6 +4160,7 @@
   <BA_RING_MODULATOR>
     <A>50</A>
     <B>50</B>
+    <C>1</C>
   </BA_RING_MODULATOR>
   <BA_RING_MODULATOR_SEQ>
     <A>0</A>
@@ -4040,6 +4188,7 @@
   </BA_RING_MODULATOR_SEQ>
   <BA_G2B>
     <A>50</A>
+    <B>1</B>
   </BA_G2B>
   <BA_SUSTAINER>
     <A>50</A>
@@ -4062,9 +4211,11 @@
     <A>50</A>
     <B>50</B>
     <C>50</C>
+    <D>1</D>
   </BA_SLOW_GEAR>
   <BA_TRANSPOSE>
     <A>12</A>
+    <B>1</B>
   </BA_TRANSPOSE>
   <BA_TRANSPOSE_SEQ>
     <A>0</A>
@@ -4093,6 +4244,7 @@
   <BA_PITCH_BEND>
     <A>6</A>
     <B>50</B>
+    <C>1</C>
   </BA_PITCH_BEND>
   <BA_PITCH_BEND_SEQ>
     <A>0</A>
@@ -4121,6 +4273,7 @@
   <BA_ROBOT>
     <A>0</A>
     <B>50</B>
+    <C>1</C>
   </BA_ROBOT>
   <BA_ELECTRIC>
     <A>12</A>
@@ -4130,7 +4283,7 @@
     <E>0</E>
   </BA_ELECTRIC>
   <BA_HARMONIST_MANUAL>
-    <A>4</A>
+    <A>6</A>
     <B>50</B>
     <C>50</C>
     <D>0</D>
@@ -4152,6 +4305,7 @@
     <C>50</C>
     <D>50</D>
     <E>50</E>
+    <F>1</F>
   </BA_VOCODER>
   <BA_OSC_VOCODER>
     <A>0</A>
@@ -4225,12 +4379,18 @@
     <C>20</C>
     <D>20</D>
     <E>20</E>
+    <F>16</F>
+    <G>1</G>
+    <H>22</H>
+    <I>1</I>
   </BA_EQ>
   <BA_ISOLATOR>
     <A>0</A>
     <B>6</B>
     <C>50</C>
     <D>100</D>
+    <E>0</E>
+    <F>0</F>
   </BA_ISOLATOR>
   <BA_ISOLATOR_SEQ>
     <A>0</A>
@@ -4258,7 +4418,8 @@
   </BA_ISOLATOR_SEQ>
   <BA_OCTAVE>
     <A>0</A>
-    <B>50</B>
+    <B>1</B>
+    <C>50</C>
   </BA_OCTAVE>
   <BA_OCTAVE_SEQ>
     <A>0</A>
@@ -4286,9 +4447,10 @@
   </BA_OCTAVE_SEQ>
   <BA_AUTO_PAN>
     <A>64</A>
-    <B>50</B>
+    <B>0</B>
     <C>50</C>
     <D>0</D>
+    <E>0</E>
   </BA_AUTO_PAN>
   <BA_MANUAL_PAN>
     <A>50</A>
@@ -4468,6 +4630,14 @@
     <E>29</E>
     <F>50</F>
   </BA_TAPE_ECHO>
+  <BA_TAPE_ECHO_V505V2>
+    <A>50</A>
+    <B>50</B>
+    <C>100</C>
+    <D>50</D>
+    <E>50</E>
+    <F>50</F>
+  </BA_TAPE_ECHO_V505V2>
   <BA_GRANULAR_DELAY>
     <A>50</A>
     <B>70</B>
@@ -4483,11 +4653,17 @@
     <D>50</D>
   </BA_TWIST>
   <BA_ROLL>
-    <A>4</A>
+    <A>8</A>
     <B>50</B>
     <C>0</C>
     <D>50</D>
   </BA_ROLL>
+  <BA_ROLL_V505V2>
+    <A>8</A>
+    <B>50</B>
+    <C>0</C>
+    <D>50</D>
+  </BA_ROLL_V505V2>
   <BA_FREEZE>
     <A>30</A>
     <B>30</B>
@@ -4533,7 +4709,7 @@
   <BB>
     <A>0</A>
     <B>0</B>
-    <C>18</C>
+    <C>9</C>
     <D>0</D>
   </BB>
   <BB_LPF>
@@ -4541,6 +4717,7 @@
     <B>50</B>
     <C>50</C>
     <D>50</D>
+    <E>0</E>
   </BB_LPF>
   <BB_LPF_SEQ>
     <A>0</A>
@@ -4571,6 +4748,7 @@
     <B>50</B>
     <C>50</C>
     <D>50</D>
+    <E>0</E>
   </BB_BPF>
   <BB_BPF_SEQ>
     <A>0</A>
@@ -4601,6 +4779,7 @@
     <B>50</B>
     <C>50</C>
     <D>50</D>
+    <E>0</E>
   </BB_HPF>
   <BB_HPF_SEQ>
     <A>0</A>
@@ -4633,6 +4812,8 @@
     <D>50</D>
     <E>100</E>
     <F>100</F>
+    <G>0</G>
+    <H>1</H>
   </BB_PHASER>
   <BB_PHASER_SEQ>
     <A>0</A>
@@ -4666,6 +4847,7 @@
     <E>0</E>
     <F>100</F>
     <G>100</G>
+    <H>0</H>
   </BB_FLANGER>
   <BB_FLANGER_SEQ>
     <A>0</A>
@@ -4733,6 +4915,7 @@
   <BB_RING_MODULATOR>
     <A>50</A>
     <B>50</B>
+    <C>1</C>
   </BB_RING_MODULATOR>
   <BB_RING_MODULATOR_SEQ>
     <A>0</A>
@@ -4760,6 +4943,7 @@
   </BB_RING_MODULATOR_SEQ>
   <BB_G2B>
     <A>50</A>
+    <B>1</B>
   </BB_G2B>
   <BB_SUSTAINER>
     <A>50</A>
@@ -4782,9 +4966,11 @@
     <A>50</A>
     <B>50</B>
     <C>50</C>
+    <D>1</D>
   </BB_SLOW_GEAR>
   <BB_TRANSPOSE>
     <A>12</A>
+    <B>1</B>
   </BB_TRANSPOSE>
   <BB_TRANSPOSE_SEQ>
     <A>0</A>
@@ -4813,6 +4999,7 @@
   <BB_PITCH_BEND>
     <A>6</A>
     <B>50</B>
+    <C>1</C>
   </BB_PITCH_BEND>
   <BB_PITCH_BEND_SEQ>
     <A>0</A>
@@ -4841,6 +5028,7 @@
   <BB_ROBOT>
     <A>0</A>
     <B>50</B>
+    <C>1</C>
   </BB_ROBOT>
   <BB_ELECTRIC>
     <A>12</A>
@@ -4858,7 +5046,7 @@
     <F>80</F>
   </BB_HARMONIST_MANUAL>
   <BB_HARMONIST_AUTO>
-    <A>2</A>
+    <A>4</A>
     <B>50</B>
     <C>50</C>
     <D>1</D>
@@ -4872,6 +5060,7 @@
     <C>50</C>
     <D>50</D>
     <E>50</E>
+    <F>1</F>
   </BB_VOCODER>
   <BB_OSC_VOCODER>
     <A>0</A>
@@ -4945,12 +5134,18 @@
     <C>20</C>
     <D>20</D>
     <E>20</E>
+    <F>16</F>
+    <G>1</G>
+    <H>22</H>
+    <I>1</I>
   </BB_EQ>
   <BB_ISOLATOR>
     <A>0</A>
     <B>6</B>
     <C>50</C>
     <D>100</D>
+    <E>0</E>
+    <F>0</F>
   </BB_ISOLATOR>
   <BB_ISOLATOR_SEQ>
     <A>0</A>
@@ -4978,7 +5173,8 @@
   </BB_ISOLATOR_SEQ>
   <BB_OCTAVE>
     <A>0</A>
-    <B>50</B>
+    <B>1</B>
+    <C>50</C>
   </BB_OCTAVE>
   <BB_OCTAVE_SEQ>
     <A>0</A>
@@ -5006,9 +5202,10 @@
   </BB_OCTAVE_SEQ>
   <BB_AUTO_PAN>
     <A>64</A>
-    <B>50</B>
+    <B>0</B>
     <C>50</C>
     <D>0</D>
+    <E>0</E>
   </BB_AUTO_PAN>
   <BB_MANUAL_PAN>
     <A>50</A>
@@ -5188,6 +5385,14 @@
     <E>29</E>
     <F>50</F>
   </BB_TAPE_ECHO>
+  <BB_TAPE_ECHO_V505V2>
+    <A>50</A>
+    <B>50</B>
+    <C>100</C>
+    <D>50</D>
+    <E>50</E>
+    <F>50</F>
+  </BB_TAPE_ECHO_V505V2>
   <BB_GRANULAR_DELAY>
     <A>50</A>
     <B>70</B>
@@ -5203,11 +5408,17 @@
     <D>50</D>
   </BB_TWIST>
   <BB_ROLL>
-    <A>4</A>
+    <A>8</A>
     <B>50</B>
     <C>0</C>
     <D>50</D>
   </BB_ROLL>
+  <BB_ROLL_V505V2>
+    <A>8</A>
+    <B>50</B>
+    <C>0</C>
+    <D>50</D>
+  </BB_ROLL_V505V2>
   <BB_FREEZE>
     <A>30</A>
     <B>30</B>
@@ -5253,7 +5464,7 @@
   <BC>
     <A>0</A>
     <B>0</B>
-    <C>18</C>
+    <C>33</C>
     <D>0</D>
   </BC>
   <BC_LPF>
@@ -5261,6 +5472,7 @@
     <B>50</B>
     <C>50</C>
     <D>50</D>
+    <E>0</E>
   </BC_LPF>
   <BC_LPF_SEQ>
     <A>0</A>
@@ -5291,6 +5503,7 @@
     <B>50</B>
     <C>50</C>
     <D>50</D>
+    <E>0</E>
   </BC_BPF>
   <BC_BPF_SEQ>
     <A>0</A>
@@ -5321,6 +5534,7 @@
     <B>50</B>
     <C>50</C>
     <D>50</D>
+    <E>0</E>
   </BC_HPF>
   <BC_HPF_SEQ>
     <A>0</A>
@@ -5353,6 +5567,8 @@
     <D>50</D>
     <E>100</E>
     <F>100</F>
+    <G>0</G>
+    <H>1</H>
   </BC_PHASER>
   <BC_PHASER_SEQ>
     <A>0</A>
@@ -5386,6 +5602,7 @@
     <E>0</E>
     <F>100</F>
     <G>100</G>
+    <H>0</H>
   </BC_FLANGER>
   <BC_FLANGER_SEQ>
     <A>0</A>
@@ -5453,6 +5670,7 @@
   <BC_RING_MODULATOR>
     <A>50</A>
     <B>50</B>
+    <C>1</C>
   </BC_RING_MODULATOR>
   <BC_RING_MODULATOR_SEQ>
     <A>0</A>
@@ -5480,6 +5698,7 @@
   </BC_RING_MODULATOR_SEQ>
   <BC_G2B>
     <A>50</A>
+    <B>1</B>
   </BC_G2B>
   <BC_SUSTAINER>
     <A>50</A>
@@ -5502,9 +5721,11 @@
     <A>50</A>
     <B>50</B>
     <C>50</C>
+    <D>1</D>
   </BC_SLOW_GEAR>
   <BC_TRANSPOSE>
     <A>12</A>
+    <B>1</B>
   </BC_TRANSPOSE>
   <BC_TRANSPOSE_SEQ>
     <A>0</A>
@@ -5533,6 +5754,7 @@
   <BC_PITCH_BEND>
     <A>6</A>
     <B>50</B>
+    <C>1</C>
   </BC_PITCH_BEND>
   <BC_PITCH_BEND_SEQ>
     <A>0</A>
@@ -5561,6 +5783,7 @@
   <BC_ROBOT>
     <A>0</A>
     <B>50</B>
+    <C>1</C>
   </BC_ROBOT>
   <BC_ELECTRIC>
     <A>12</A>
@@ -5578,7 +5801,7 @@
     <F>80</F>
   </BC_HARMONIST_MANUAL>
   <BC_HARMONIST_AUTO>
-    <A>0</A>
+    <A>4</A>
     <B>50</B>
     <C>50</C>
     <D>1</D>
@@ -5592,6 +5815,7 @@
     <C>50</C>
     <D>50</D>
     <E>50</E>
+    <F>1</F>
   </BC_VOCODER>
   <BC_OSC_VOCODER>
     <A>0</A>
@@ -5665,12 +5889,18 @@
     <C>20</C>
     <D>20</D>
     <E>20</E>
+    <F>16</F>
+    <G>1</G>
+    <H>22</H>
+    <I>1</I>
   </BC_EQ>
   <BC_ISOLATOR>
     <A>0</A>
     <B>6</B>
     <C>50</C>
     <D>100</D>
+    <E>0</E>
+    <F>0</F>
   </BC_ISOLATOR>
   <BC_ISOLATOR_SEQ>
     <A>0</A>
@@ -5698,7 +5928,8 @@
   </BC_ISOLATOR_SEQ>
   <BC_OCTAVE>
     <A>0</A>
-    <B>50</B>
+    <B>1</B>
+    <C>50</C>
   </BC_OCTAVE>
   <BC_OCTAVE_SEQ>
     <A>0</A>
@@ -5726,9 +5957,10 @@
   </BC_OCTAVE_SEQ>
   <BC_AUTO_PAN>
     <A>64</A>
-    <B>50</B>
+    <B>0</B>
     <C>50</C>
     <D>0</D>
+    <E>0</E>
   </BC_AUTO_PAN>
   <BC_MANUAL_PAN>
     <A>50</A>
@@ -5908,6 +6140,14 @@
     <E>29</E>
     <F>50</F>
   </BC_TAPE_ECHO>
+  <BC_TAPE_ECHO_V505V2>
+    <A>50</A>
+    <B>50</B>
+    <C>100</C>
+    <D>50</D>
+    <E>50</E>
+    <F>50</F>
+  </BC_TAPE_ECHO_V505V2>
   <BC_GRANULAR_DELAY>
     <A>50</A>
     <B>70</B>
@@ -5923,11 +6163,17 @@
     <D>50</D>
   </BC_TWIST>
   <BC_ROLL>
-    <A>4</A>
+    <A>8</A>
     <B>50</B>
     <C>0</C>
     <D>50</D>
   </BC_ROLL>
+  <BC_ROLL_V505V2>
+    <A>8</A>
+    <B>50</B>
+    <C>0</C>
+    <D>50</D>
+  </BC_ROLL_V505V2>
   <BC_FREEZE>
     <A>30</A>
     <B>30</B>
@@ -5973,7 +6219,7 @@
   <BD>
     <A>0</A>
     <B>0</B>
-    <C>18</C>
+    <C>35</C>
     <D>0</D>
   </BD>
   <BD_LPF>
@@ -5981,6 +6227,7 @@
     <B>50</B>
     <C>50</C>
     <D>50</D>
+    <E>0</E>
   </BD_LPF>
   <BD_LPF_SEQ>
     <A>0</A>
@@ -6011,6 +6258,7 @@
     <B>50</B>
     <C>50</C>
     <D>50</D>
+    <E>0</E>
   </BD_BPF>
   <BD_BPF_SEQ>
     <A>0</A>
@@ -6041,6 +6289,7 @@
     <B>50</B>
     <C>50</C>
     <D>50</D>
+    <E>0</E>
   </BD_HPF>
   <BD_HPF_SEQ>
     <A>0</A>
@@ -6073,6 +6322,8 @@
     <D>50</D>
     <E>100</E>
     <F>100</F>
+    <G>0</G>
+    <H>1</H>
   </BD_PHASER>
   <BD_PHASER_SEQ>
     <A>0</A>
@@ -6106,6 +6357,7 @@
     <E>0</E>
     <F>100</F>
     <G>100</G>
+    <H>0</H>
   </BD_FLANGER>
   <BD_FLANGER_SEQ>
     <A>0</A>
@@ -6173,6 +6425,7 @@
   <BD_RING_MODULATOR>
     <A>50</A>
     <B>50</B>
+    <C>1</C>
   </BD_RING_MODULATOR>
   <BD_RING_MODULATOR_SEQ>
     <A>0</A>
@@ -6200,6 +6453,7 @@
   </BD_RING_MODULATOR_SEQ>
   <BD_G2B>
     <A>50</A>
+    <B>1</B>
   </BD_G2B>
   <BD_SUSTAINER>
     <A>50</A>
@@ -6222,9 +6476,11 @@
     <A>50</A>
     <B>50</B>
     <C>50</C>
+    <D>1</D>
   </BD_SLOW_GEAR>
   <BD_TRANSPOSE>
     <A>12</A>
+    <B>1</B>
   </BD_TRANSPOSE>
   <BD_TRANSPOSE_SEQ>
     <A>0</A>
@@ -6253,6 +6509,7 @@
   <BD_PITCH_BEND>
     <A>6</A>
     <B>50</B>
+    <C>1</C>
   </BD_PITCH_BEND>
   <BD_PITCH_BEND_SEQ>
     <A>0</A>
@@ -6281,6 +6538,7 @@
   <BD_ROBOT>
     <A>0</A>
     <B>50</B>
+    <C>1</C>
   </BD_ROBOT>
   <BD_ELECTRIC>
     <A>12</A>
@@ -6298,7 +6556,7 @@
     <F>80</F>
   </BD_HARMONIST_MANUAL>
   <BD_HARMONIST_AUTO>
-    <A>3</A>
+    <A>4</A>
     <B>50</B>
     <C>50</C>
     <D>1</D>
@@ -6312,6 +6570,7 @@
     <C>50</C>
     <D>50</D>
     <E>50</E>
+    <F>1</F>
   </BD_VOCODER>
   <BD_OSC_VOCODER>
     <A>0</A>
@@ -6385,12 +6644,18 @@
     <C>20</C>
     <D>20</D>
     <E>20</E>
+    <F>16</F>
+    <G>1</G>
+    <H>22</H>
+    <I>1</I>
   </BD_EQ>
   <BD_ISOLATOR>
     <A>0</A>
     <B>6</B>
     <C>50</C>
     <D>100</D>
+    <E>0</E>
+    <F>0</F>
   </BD_ISOLATOR>
   <BD_ISOLATOR_SEQ>
     <A>0</A>
@@ -6418,7 +6683,8 @@
   </BD_ISOLATOR_SEQ>
   <BD_OCTAVE>
     <A>0</A>
-    <B>50</B>
+    <B>1</B>
+    <C>50</C>
   </BD_OCTAVE>
   <BD_OCTAVE_SEQ>
     <A>0</A>
@@ -6446,9 +6712,10 @@
   </BD_OCTAVE_SEQ>
   <BD_AUTO_PAN>
     <A>64</A>
-    <B>50</B>
+    <B>0</B>
     <C>50</C>
     <D>0</D>
+    <E>0</E>
   </BD_AUTO_PAN>
   <BD_MANUAL_PAN>
     <A>50</A>
@@ -6628,6 +6895,14 @@
     <E>29</E>
     <F>50</F>
   </BD_TAPE_ECHO>
+  <BD_TAPE_ECHO_V505V2>
+    <A>50</A>
+    <B>50</B>
+    <C>100</C>
+    <D>50</D>
+    <E>50</E>
+    <F>50</F>
+  </BD_TAPE_ECHO_V505V2>
   <BD_GRANULAR_DELAY>
     <A>50</A>
     <B>70</B>
@@ -6643,11 +6918,17 @@
     <D>50</D>
   </BD_TWIST>
   <BD_ROLL>
-    <A>4</A>
+    <A>8</A>
     <B>50</B>
     <C>0</C>
     <D>50</D>
   </BD_ROLL>
+  <BD_ROLL_V505V2>
+    <A>8</A>
+    <B>50</B>
+    <C>0</C>
+    <D>50</D>
+  </BD_ROLL_V505V2>
   <BD_FREEZE>
     <A>30</A>
     <B>30</B>
@@ -6706,6 +6987,7 @@
     <B>50</B>
     <C>50</C>
     <D>50</D>
+    <E>0</E>
   </CA_LPF>
   <CA_LPF_SEQ>
     <A>0</A>
@@ -6736,6 +7018,7 @@
     <B>50</B>
     <C>50</C>
     <D>50</D>
+    <E>0</E>
   </CA_BPF>
   <CA_BPF_SEQ>
     <A>0</A>
@@ -6766,6 +7049,7 @@
     <B>50</B>
     <C>50</C>
     <D>50</D>
+    <E>0</E>
   </CA_HPF>
   <CA_HPF_SEQ>
     <A>0</A>
@@ -6798,6 +7082,8 @@
     <D>50</D>
     <E>100</E>
     <F>100</F>
+    <G>0</G>
+    <H>1</H>
   </CA_PHASER>
   <CA_PHASER_SEQ>
     <A>0</A>
@@ -6831,6 +7117,7 @@
     <E>0</E>
     <F>100</F>
     <G>100</G>
+    <H>0</H>
   </CA_FLANGER>
   <CA_FLANGER_SEQ>
     <A>0</A>
@@ -6898,6 +7185,7 @@
   <CA_RING_MODULATOR>
     <A>50</A>
     <B>50</B>
+    <C>1</C>
   </CA_RING_MODULATOR>
   <CA_RING_MODULATOR_SEQ>
     <A>0</A>
@@ -6925,6 +7213,7 @@
   </CA_RING_MODULATOR_SEQ>
   <CA_G2B>
     <A>50</A>
+    <B>1</B>
   </CA_G2B>
   <CA_SUSTAINER>
     <A>50</A>
@@ -6947,9 +7236,11 @@
     <A>50</A>
     <B>50</B>
     <C>50</C>
+    <D>1</D>
   </CA_SLOW_GEAR>
   <CA_TRANSPOSE>
     <A>12</A>
+    <B>1</B>
   </CA_TRANSPOSE>
   <CA_TRANSPOSE_SEQ>
     <A>0</A>
@@ -6978,6 +7269,7 @@
   <CA_PITCH_BEND>
     <A>6</A>
     <B>50</B>
+    <C>1</C>
   </CA_PITCH_BEND>
   <CA_PITCH_BEND_SEQ>
     <A>0</A>
@@ -7006,6 +7298,7 @@
   <CA_ROBOT>
     <A>0</A>
     <B>50</B>
+    <C>1</C>
   </CA_ROBOT>
   <CA_ELECTRIC>
     <A>12</A>
@@ -7037,6 +7330,7 @@
     <C>50</C>
     <D>50</D>
     <E>50</E>
+    <F>1</F>
   </CA_VOCODER>
   <CA_OSC_VOCODER>
     <A>0</A>
@@ -7110,12 +7404,18 @@
     <C>20</C>
     <D>20</D>
     <E>20</E>
+    <F>16</F>
+    <G>1</G>
+    <H>22</H>
+    <I>1</I>
   </CA_EQ>
   <CA_ISOLATOR>
     <A>0</A>
     <B>6</B>
     <C>50</C>
     <D>100</D>
+    <E>0</E>
+    <F>0</F>
   </CA_ISOLATOR>
   <CA_ISOLATOR_SEQ>
     <A>0</A>
@@ -7143,7 +7443,8 @@
   </CA_ISOLATOR_SEQ>
   <CA_OCTAVE>
     <A>0</A>
-    <B>50</B>
+    <B>1</B>
+    <C>50</C>
   </CA_OCTAVE>
   <CA_OCTAVE_SEQ>
     <A>0</A>
@@ -7171,9 +7472,10 @@
   </CA_OCTAVE_SEQ>
   <CA_AUTO_PAN>
     <A>64</A>
-    <B>50</B>
+    <B>0</B>
     <C>50</C>
     <D>0</D>
+    <E>0</E>
   </CA_AUTO_PAN>
   <CA_MANUAL_PAN>
     <A>50</A>
@@ -7353,6 +7655,14 @@
     <E>29</E>
     <F>50</F>
   </CA_TAPE_ECHO>
+  <CA_TAPE_ECHO_V505V2>
+    <A>50</A>
+    <B>50</B>
+    <C>100</C>
+    <D>50</D>
+    <E>50</E>
+    <F>50</F>
+  </CA_TAPE_ECHO_V505V2>
   <CA_GRANULAR_DELAY>
     <A>50</A>
     <B>70</B>
@@ -7368,11 +7678,17 @@
     <D>50</D>
   </CA_TWIST>
   <CA_ROLL>
-    <A>4</A>
+    <A>8</A>
     <B>50</B>
     <C>0</C>
     <D>50</D>
   </CA_ROLL>
+  <CA_ROLL_V505V2>
+    <A>8</A>
+    <B>50</B>
+    <C>0</C>
+    <D>50</D>
+  </CA_ROLL_V505V2>
   <CA_FREEZE>
     <A>30</A>
     <B>30</B>
@@ -7426,6 +7742,7 @@
     <B>50</B>
     <C>50</C>
     <D>50</D>
+    <E>0</E>
   </CB_LPF>
   <CB_LPF_SEQ>
     <A>0</A>
@@ -7456,6 +7773,7 @@
     <B>50</B>
     <C>50</C>
     <D>50</D>
+    <E>0</E>
   </CB_BPF>
   <CB_BPF_SEQ>
     <A>0</A>
@@ -7486,6 +7804,7 @@
     <B>50</B>
     <C>50</C>
     <D>50</D>
+    <E>0</E>
   </CB_HPF>
   <CB_HPF_SEQ>
     <A>0</A>
@@ -7518,6 +7837,8 @@
     <D>50</D>
     <E>100</E>
     <F>100</F>
+    <G>0</G>
+    <H>1</H>
   </CB_PHASER>
   <CB_PHASER_SEQ>
     <A>0</A>
@@ -7551,6 +7872,7 @@
     <E>0</E>
     <F>100</F>
     <G>100</G>
+    <H>0</H>
   </CB_FLANGER>
   <CB_FLANGER_SEQ>
     <A>0</A>
@@ -7618,6 +7940,7 @@
   <CB_RING_MODULATOR>
     <A>50</A>
     <B>50</B>
+    <C>1</C>
   </CB_RING_MODULATOR>
   <CB_RING_MODULATOR_SEQ>
     <A>0</A>
@@ -7645,6 +7968,7 @@
   </CB_RING_MODULATOR_SEQ>
   <CB_G2B>
     <A>50</A>
+    <B>1</B>
   </CB_G2B>
   <CB_SUSTAINER>
     <A>50</A>
@@ -7667,9 +7991,11 @@
     <A>50</A>
     <B>50</B>
     <C>50</C>
+    <D>1</D>
   </CB_SLOW_GEAR>
   <CB_TRANSPOSE>
     <A>12</A>
+    <B>1</B>
   </CB_TRANSPOSE>
   <CB_TRANSPOSE_SEQ>
     <A>0</A>
@@ -7698,6 +8024,7 @@
   <CB_PITCH_BEND>
     <A>6</A>
     <B>50</B>
+    <C>1</C>
   </CB_PITCH_BEND>
   <CB_PITCH_BEND_SEQ>
     <A>0</A>
@@ -7726,6 +8053,7 @@
   <CB_ROBOT>
     <A>0</A>
     <B>50</B>
+    <C>1</C>
   </CB_ROBOT>
   <CB_ELECTRIC>
     <A>12</A>
@@ -7757,6 +8085,7 @@
     <C>50</C>
     <D>50</D>
     <E>50</E>
+    <F>1</F>
   </CB_VOCODER>
   <CB_OSC_VOCODER>
     <A>0</A>
@@ -7830,12 +8159,18 @@
     <C>20</C>
     <D>20</D>
     <E>20</E>
+    <F>16</F>
+    <G>1</G>
+    <H>22</H>
+    <I>1</I>
   </CB_EQ>
   <CB_ISOLATOR>
     <A>0</A>
     <B>6</B>
     <C>50</C>
     <D>100</D>
+    <E>0</E>
+    <F>0</F>
   </CB_ISOLATOR>
   <CB_ISOLATOR_SEQ>
     <A>0</A>
@@ -7863,7 +8198,8 @@
   </CB_ISOLATOR_SEQ>
   <CB_OCTAVE>
     <A>0</A>
-    <B>50</B>
+    <B>1</B>
+    <C>50</C>
   </CB_OCTAVE>
   <CB_OCTAVE_SEQ>
     <A>0</A>
@@ -7891,9 +8227,10 @@
   </CB_OCTAVE_SEQ>
   <CB_AUTO_PAN>
     <A>64</A>
-    <B>50</B>
+    <B>0</B>
     <C>50</C>
     <D>0</D>
+    <E>0</E>
   </CB_AUTO_PAN>
   <CB_MANUAL_PAN>
     <A>50</A>
@@ -8073,6 +8410,14 @@
     <E>29</E>
     <F>50</F>
   </CB_TAPE_ECHO>
+  <CB_TAPE_ECHO_V505V2>
+    <A>50</A>
+    <B>50</B>
+    <C>100</C>
+    <D>50</D>
+    <E>50</E>
+    <F>50</F>
+  </CB_TAPE_ECHO_V505V2>
   <CB_GRANULAR_DELAY>
     <A>50</A>
     <B>70</B>
@@ -8088,11 +8433,17 @@
     <D>50</D>
   </CB_TWIST>
   <CB_ROLL>
-    <A>4</A>
+    <A>8</A>
     <B>50</B>
     <C>0</C>
     <D>50</D>
   </CB_ROLL>
+  <CB_ROLL_V505V2>
+    <A>8</A>
+    <B>50</B>
+    <C>0</C>
+    <D>50</D>
+  </CB_ROLL_V505V2>
   <CB_FREEZE>
     <A>30</A>
     <B>30</B>
@@ -8146,6 +8497,7 @@
     <B>50</B>
     <C>50</C>
     <D>50</D>
+    <E>0</E>
   </CC_LPF>
   <CC_LPF_SEQ>
     <A>0</A>
@@ -8176,6 +8528,7 @@
     <B>50</B>
     <C>50</C>
     <D>50</D>
+    <E>0</E>
   </CC_BPF>
   <CC_BPF_SEQ>
     <A>0</A>
@@ -8206,6 +8559,7 @@
     <B>50</B>
     <C>50</C>
     <D>50</D>
+    <E>0</E>
   </CC_HPF>
   <CC_HPF_SEQ>
     <A>0</A>
@@ -8238,6 +8592,8 @@
     <D>50</D>
     <E>100</E>
     <F>100</F>
+    <G>0</G>
+    <H>1</H>
   </CC_PHASER>
   <CC_PHASER_SEQ>
     <A>0</A>
@@ -8271,6 +8627,7 @@
     <E>0</E>
     <F>100</F>
     <G>100</G>
+    <H>0</H>
   </CC_FLANGER>
   <CC_FLANGER_SEQ>
     <A>0</A>
@@ -8338,6 +8695,7 @@
   <CC_RING_MODULATOR>
     <A>50</A>
     <B>50</B>
+    <C>1</C>
   </CC_RING_MODULATOR>
   <CC_RING_MODULATOR_SEQ>
     <A>0</A>
@@ -8365,6 +8723,7 @@
   </CC_RING_MODULATOR_SEQ>
   <CC_G2B>
     <A>50</A>
+    <B>1</B>
   </CC_G2B>
   <CC_SUSTAINER>
     <A>50</A>
@@ -8387,9 +8746,11 @@
     <A>50</A>
     <B>50</B>
     <C>50</C>
+    <D>1</D>
   </CC_SLOW_GEAR>
   <CC_TRANSPOSE>
     <A>12</A>
+    <B>1</B>
   </CC_TRANSPOSE>
   <CC_TRANSPOSE_SEQ>
     <A>0</A>
@@ -8418,6 +8779,7 @@
   <CC_PITCH_BEND>
     <A>6</A>
     <B>50</B>
+    <C>1</C>
   </CC_PITCH_BEND>
   <CC_PITCH_BEND_SEQ>
     <A>0</A>
@@ -8446,6 +8808,7 @@
   <CC_ROBOT>
     <A>0</A>
     <B>50</B>
+    <C>1</C>
   </CC_ROBOT>
   <CC_ELECTRIC>
     <A>12</A>
@@ -8477,6 +8840,7 @@
     <C>50</C>
     <D>50</D>
     <E>50</E>
+    <F>1</F>
   </CC_VOCODER>
   <CC_OSC_VOCODER>
     <A>0</A>
@@ -8550,12 +8914,18 @@
     <C>20</C>
     <D>20</D>
     <E>20</E>
+    <F>16</F>
+    <G>1</G>
+    <H>22</H>
+    <I>1</I>
   </CC_EQ>
   <CC_ISOLATOR>
     <A>0</A>
     <B>6</B>
     <C>50</C>
     <D>100</D>
+    <E>0</E>
+    <F>0</F>
   </CC_ISOLATOR>
   <CC_ISOLATOR_SEQ>
     <A>0</A>
@@ -8583,7 +8953,8 @@
   </CC_ISOLATOR_SEQ>
   <CC_OCTAVE>
     <A>0</A>
-    <B>50</B>
+    <B>1</B>
+    <C>50</C>
   </CC_OCTAVE>
   <CC_OCTAVE_SEQ>
     <A>0</A>
@@ -8611,9 +8982,10 @@
   </CC_OCTAVE_SEQ>
   <CC_AUTO_PAN>
     <A>64</A>
-    <B>50</B>
+    <B>0</B>
     <C>50</C>
     <D>0</D>
+    <E>0</E>
   </CC_AUTO_PAN>
   <CC_MANUAL_PAN>
     <A>50</A>
@@ -8793,6 +9165,14 @@
     <E>29</E>
     <F>50</F>
   </CC_TAPE_ECHO>
+  <CC_TAPE_ECHO_V505V2>
+    <A>50</A>
+    <B>50</B>
+    <C>100</C>
+    <D>50</D>
+    <E>50</E>
+    <F>50</F>
+  </CC_TAPE_ECHO_V505V2>
   <CC_GRANULAR_DELAY>
     <A>50</A>
     <B>70</B>
@@ -8808,11 +9188,17 @@
     <D>50</D>
   </CC_TWIST>
   <CC_ROLL>
-    <A>4</A>
+    <A>8</A>
     <B>50</B>
     <C>0</C>
     <D>50</D>
   </CC_ROLL>
+  <CC_ROLL_V505V2>
+    <A>8</A>
+    <B>50</B>
+    <C>0</C>
+    <D>50</D>
+  </CC_ROLL_V505V2>
   <CC_FREEZE>
     <A>30</A>
     <B>30</B>
@@ -8866,6 +9252,7 @@
     <B>50</B>
     <C>50</C>
     <D>50</D>
+    <E>0</E>
   </CD_LPF>
   <CD_LPF_SEQ>
     <A>0</A>
@@ -8896,6 +9283,7 @@
     <B>50</B>
     <C>50</C>
     <D>50</D>
+    <E>0</E>
   </CD_BPF>
   <CD_BPF_SEQ>
     <A>0</A>
@@ -8926,6 +9314,7 @@
     <B>50</B>
     <C>50</C>
     <D>50</D>
+    <E>0</E>
   </CD_HPF>
   <CD_HPF_SEQ>
     <A>0</A>
@@ -8958,6 +9347,8 @@
     <D>50</D>
     <E>100</E>
     <F>100</F>
+    <G>0</G>
+    <H>1</H>
   </CD_PHASER>
   <CD_PHASER_SEQ>
     <A>0</A>
@@ -8991,6 +9382,7 @@
     <E>0</E>
     <F>100</F>
     <G>100</G>
+    <H>0</H>
   </CD_FLANGER>
   <CD_FLANGER_SEQ>
     <A>0</A>
@@ -9058,6 +9450,7 @@
   <CD_RING_MODULATOR>
     <A>50</A>
     <B>50</B>
+    <C>1</C>
   </CD_RING_MODULATOR>
   <CD_RING_MODULATOR_SEQ>
     <A>0</A>
@@ -9085,6 +9478,7 @@
   </CD_RING_MODULATOR_SEQ>
   <CD_G2B>
     <A>50</A>
+    <B>1</B>
   </CD_G2B>
   <CD_SUSTAINER>
     <A>50</A>
@@ -9107,9 +9501,11 @@
     <A>50</A>
     <B>50</B>
     <C>50</C>
+    <D>1</D>
   </CD_SLOW_GEAR>
   <CD_TRANSPOSE>
     <A>12</A>
+    <B>1</B>
   </CD_TRANSPOSE>
   <CD_TRANSPOSE_SEQ>
     <A>0</A>
@@ -9138,6 +9534,7 @@
   <CD_PITCH_BEND>
     <A>6</A>
     <B>50</B>
+    <C>1</C>
   </CD_PITCH_BEND>
   <CD_PITCH_BEND_SEQ>
     <A>0</A>
@@ -9166,6 +9563,7 @@
   <CD_ROBOT>
     <A>0</A>
     <B>50</B>
+    <C>1</C>
   </CD_ROBOT>
   <CD_ELECTRIC>
     <A>12</A>
@@ -9197,6 +9595,7 @@
     <C>50</C>
     <D>50</D>
     <E>50</E>
+    <F>1</F>
   </CD_VOCODER>
   <CD_OSC_VOCODER>
     <A>0</A>
@@ -9270,12 +9669,18 @@
     <C>20</C>
     <D>20</D>
     <E>20</E>
+    <F>16</F>
+    <G>1</G>
+    <H>22</H>
+    <I>1</I>
   </CD_EQ>
   <CD_ISOLATOR>
     <A>0</A>
     <B>6</B>
     <C>50</C>
     <D>100</D>
+    <E>0</E>
+    <F>0</F>
   </CD_ISOLATOR>
   <CD_ISOLATOR_SEQ>
     <A>0</A>
@@ -9303,7 +9708,8 @@
   </CD_ISOLATOR_SEQ>
   <CD_OCTAVE>
     <A>0</A>
-    <B>50</B>
+    <B>1</B>
+    <C>50</C>
   </CD_OCTAVE>
   <CD_OCTAVE_SEQ>
     <A>0</A>
@@ -9331,9 +9737,10 @@
   </CD_OCTAVE_SEQ>
   <CD_AUTO_PAN>
     <A>64</A>
-    <B>50</B>
+    <B>0</B>
     <C>50</C>
     <D>0</D>
+    <E>0</E>
   </CD_AUTO_PAN>
   <CD_MANUAL_PAN>
     <A>50</A>
@@ -9513,6 +9920,14 @@
     <E>29</E>
     <F>50</F>
   </CD_TAPE_ECHO>
+  <CD_TAPE_ECHO_V505V2>
+    <A>50</A>
+    <B>50</B>
+    <C>100</C>
+    <D>50</D>
+    <E>50</E>
+    <F>50</F>
+  </CD_TAPE_ECHO_V505V2>
   <CD_GRANULAR_DELAY>
     <A>50</A>
     <B>70</B>
@@ -9528,11 +9943,17 @@
     <D>50</D>
   </CD_TWIST>
   <CD_ROLL>
-    <A>4</A>
+    <A>8</A>
     <B>50</B>
     <C>0</C>
     <D>50</D>
   </CD_ROLL>
+  <CD_ROLL_V505V2>
+    <A>8</A>
+    <B>50</B>
+    <C>0</C>
+    <D>50</D>
+  </CD_ROLL_V505V2>
   <CD_FREEZE>
     <A>30</A>
     <B>30</B>
@@ -9591,6 +10012,7 @@
     <B>50</B>
     <C>50</C>
     <D>50</D>
+    <E>0</E>
   </DA_LPF>
   <DA_LPF_SEQ>
     <A>0</A>
@@ -9621,6 +10043,7 @@
     <B>50</B>
     <C>50</C>
     <D>50</D>
+    <E>0</E>
   </DA_BPF>
   <DA_BPF_SEQ>
     <A>0</A>
@@ -9651,6 +10074,7 @@
     <B>50</B>
     <C>50</C>
     <D>50</D>
+    <E>0</E>
   </DA_HPF>
   <DA_HPF_SEQ>
     <A>0</A>
@@ -9683,6 +10107,8 @@
     <D>50</D>
     <E>100</E>
     <F>100</F>
+    <G>0</G>
+    <H>1</H>
   </DA_PHASER>
   <DA_PHASER_SEQ>
     <A>0</A>
@@ -9716,6 +10142,7 @@
     <E>0</E>
     <F>100</F>
     <G>100</G>
+    <H>0</H>
   </DA_FLANGER>
   <DA_FLANGER_SEQ>
     <A>0</A>
@@ -9783,6 +10210,7 @@
   <DA_RING_MODULATOR>
     <A>50</A>
     <B>50</B>
+    <C>1</C>
   </DA_RING_MODULATOR>
   <DA_RING_MODULATOR_SEQ>
     <A>0</A>
@@ -9810,6 +10238,7 @@
   </DA_RING_MODULATOR_SEQ>
   <DA_G2B>
     <A>50</A>
+    <B>1</B>
   </DA_G2B>
   <DA_SUSTAINER>
     <A>50</A>
@@ -9832,9 +10261,11 @@
     <A>50</A>
     <B>50</B>
     <C>50</C>
+    <D>1</D>
   </DA_SLOW_GEAR>
   <DA_TRANSPOSE>
     <A>12</A>
+    <B>1</B>
   </DA_TRANSPOSE>
   <DA_TRANSPOSE_SEQ>
     <A>0</A>
@@ -9863,6 +10294,7 @@
   <DA_PITCH_BEND>
     <A>6</A>
     <B>50</B>
+    <C>1</C>
   </DA_PITCH_BEND>
   <DA_PITCH_BEND_SEQ>
     <A>0</A>
@@ -9891,6 +10323,7 @@
   <DA_ROBOT>
     <A>0</A>
     <B>50</B>
+    <C>1</C>
   </DA_ROBOT>
   <DA_ELECTRIC>
     <A>12</A>
@@ -9922,6 +10355,7 @@
     <C>50</C>
     <D>50</D>
     <E>50</E>
+    <F>1</F>
   </DA_VOCODER>
   <DA_OSC_VOCODER>
     <A>0</A>
@@ -9995,12 +10429,18 @@
     <C>20</C>
     <D>20</D>
     <E>20</E>
+    <F>16</F>
+    <G>1</G>
+    <H>22</H>
+    <I>1</I>
   </DA_EQ>
   <DA_ISOLATOR>
     <A>0</A>
     <B>6</B>
     <C>50</C>
     <D>100</D>
+    <E>0</E>
+    <F>0</F>
   </DA_ISOLATOR>
   <DA_ISOLATOR_SEQ>
     <A>0</A>
@@ -10028,7 +10468,8 @@
   </DA_ISOLATOR_SEQ>
   <DA_OCTAVE>
     <A>0</A>
-    <B>50</B>
+    <B>1</B>
+    <C>50</C>
   </DA_OCTAVE>
   <DA_OCTAVE_SEQ>
     <A>0</A>
@@ -10056,9 +10497,10 @@
   </DA_OCTAVE_SEQ>
   <DA_AUTO_PAN>
     <A>64</A>
-    <B>50</B>
+    <B>0</B>
     <C>50</C>
     <D>0</D>
+    <E>0</E>
   </DA_AUTO_PAN>
   <DA_MANUAL_PAN>
     <A>50</A>
@@ -10238,6 +10680,14 @@
     <E>29</E>
     <F>50</F>
   </DA_TAPE_ECHO>
+  <DA_TAPE_ECHO_V505V2>
+    <A>50</A>
+    <B>50</B>
+    <C>100</C>
+    <D>50</D>
+    <E>50</E>
+    <F>50</F>
+  </DA_TAPE_ECHO_V505V2>
   <DA_GRANULAR_DELAY>
     <A>50</A>
     <B>70</B>
@@ -10253,11 +10703,17 @@
     <D>50</D>
   </DA_TWIST>
   <DA_ROLL>
-    <A>4</A>
+    <A>8</A>
     <B>50</B>
     <C>0</C>
     <D>50</D>
   </DA_ROLL>
+  <DA_ROLL_V505V2>
+    <A>8</A>
+    <B>50</B>
+    <C>0</C>
+    <D>50</D>
+  </DA_ROLL_V505V2>
   <DA_FREEZE>
     <A>30</A>
     <B>30</B>
@@ -10311,6 +10767,7 @@
     <B>50</B>
     <C>50</C>
     <D>50</D>
+    <E>0</E>
   </DB_LPF>
   <DB_LPF_SEQ>
     <A>0</A>
@@ -10341,6 +10798,7 @@
     <B>50</B>
     <C>50</C>
     <D>50</D>
+    <E>0</E>
   </DB_BPF>
   <DB_BPF_SEQ>
     <A>0</A>
@@ -10371,6 +10829,7 @@
     <B>50</B>
     <C>50</C>
     <D>50</D>
+    <E>0</E>
   </DB_HPF>
   <DB_HPF_SEQ>
     <A>0</A>
@@ -10403,6 +10862,8 @@
     <D>50</D>
     <E>100</E>
     <F>100</F>
+    <G>0</G>
+    <H>1</H>
   </DB_PHASER>
   <DB_PHASER_SEQ>
     <A>0</A>
@@ -10436,6 +10897,7 @@
     <E>0</E>
     <F>100</F>
     <G>100</G>
+    <H>0</H>
   </DB_FLANGER>
   <DB_FLANGER_SEQ>
     <A>0</A>
@@ -10503,6 +10965,7 @@
   <DB_RING_MODULATOR>
     <A>50</A>
     <B>50</B>
+    <C>1</C>
   </DB_RING_MODULATOR>
   <DB_RING_MODULATOR_SEQ>
     <A>0</A>
@@ -10530,6 +10993,7 @@
   </DB_RING_MODULATOR_SEQ>
   <DB_G2B>
     <A>50</A>
+    <B>1</B>
   </DB_G2B>
   <DB_SUSTAINER>
     <A>50</A>
@@ -10552,9 +11016,11 @@
     <A>50</A>
     <B>50</B>
     <C>50</C>
+    <D>1</D>
   </DB_SLOW_GEAR>
   <DB_TRANSPOSE>
     <A>12</A>
+    <B>1</B>
   </DB_TRANSPOSE>
   <DB_TRANSPOSE_SEQ>
     <A>0</A>
@@ -10583,6 +11049,7 @@
   <DB_PITCH_BEND>
     <A>6</A>
     <B>50</B>
+    <C>1</C>
   </DB_PITCH_BEND>
   <DB_PITCH_BEND_SEQ>
     <A>0</A>
@@ -10611,6 +11078,7 @@
   <DB_ROBOT>
     <A>0</A>
     <B>50</B>
+    <C>1</C>
   </DB_ROBOT>
   <DB_ELECTRIC>
     <A>12</A>
@@ -10642,6 +11110,7 @@
     <C>50</C>
     <D>50</D>
     <E>50</E>
+    <F>1</F>
   </DB_VOCODER>
   <DB_OSC_VOCODER>
     <A>0</A>
@@ -10715,12 +11184,18 @@
     <C>20</C>
     <D>20</D>
     <E>20</E>
+    <F>16</F>
+    <G>1</G>
+    <H>22</H>
+    <I>1</I>
   </DB_EQ>
   <DB_ISOLATOR>
     <A>0</A>
     <B>6</B>
     <C>50</C>
     <D>100</D>
+    <E>0</E>
+    <F>0</F>
   </DB_ISOLATOR>
   <DB_ISOLATOR_SEQ>
     <A>0</A>
@@ -10748,7 +11223,8 @@
   </DB_ISOLATOR_SEQ>
   <DB_OCTAVE>
     <A>0</A>
-    <B>50</B>
+    <B>1</B>
+    <C>50</C>
   </DB_OCTAVE>
   <DB_OCTAVE_SEQ>
     <A>0</A>
@@ -10776,9 +11252,10 @@
   </DB_OCTAVE_SEQ>
   <DB_AUTO_PAN>
     <A>64</A>
-    <B>50</B>
+    <B>0</B>
     <C>50</C>
     <D>0</D>
+    <E>0</E>
   </DB_AUTO_PAN>
   <DB_MANUAL_PAN>
     <A>50</A>
@@ -10958,6 +11435,14 @@
     <E>29</E>
     <F>50</F>
   </DB_TAPE_ECHO>
+  <DB_TAPE_ECHO_V505V2>
+    <A>50</A>
+    <B>50</B>
+    <C>100</C>
+    <D>50</D>
+    <E>50</E>
+    <F>50</F>
+  </DB_TAPE_ECHO_V505V2>
   <DB_GRANULAR_DELAY>
     <A>50</A>
     <B>70</B>
@@ -10973,11 +11458,17 @@
     <D>50</D>
   </DB_TWIST>
   <DB_ROLL>
-    <A>4</A>
+    <A>8</A>
     <B>50</B>
     <C>0</C>
     <D>50</D>
   </DB_ROLL>
+  <DB_ROLL_V505V2>
+    <A>8</A>
+    <B>50</B>
+    <C>0</C>
+    <D>50</D>
+  </DB_ROLL_V505V2>
   <DB_FREEZE>
     <A>30</A>
     <B>30</B>
@@ -11031,6 +11522,7 @@
     <B>50</B>
     <C>50</C>
     <D>50</D>
+    <E>0</E>
   </DC_LPF>
   <DC_LPF_SEQ>
     <A>0</A>
@@ -11061,6 +11553,7 @@
     <B>50</B>
     <C>50</C>
     <D>50</D>
+    <E>0</E>
   </DC_BPF>
   <DC_BPF_SEQ>
     <A>0</A>
@@ -11091,6 +11584,7 @@
     <B>50</B>
     <C>50</C>
     <D>50</D>
+    <E>0</E>
   </DC_HPF>
   <DC_HPF_SEQ>
     <A>0</A>
@@ -11123,6 +11617,8 @@
     <D>50</D>
     <E>100</E>
     <F>100</F>
+    <G>0</G>
+    <H>1</H>
   </DC_PHASER>
   <DC_PHASER_SEQ>
     <A>0</A>
@@ -11156,6 +11652,7 @@
     <E>0</E>
     <F>100</F>
     <G>100</G>
+    <H>0</H>
   </DC_FLANGER>
   <DC_FLANGER_SEQ>
     <A>0</A>
@@ -11223,6 +11720,7 @@
   <DC_RING_MODULATOR>
     <A>50</A>
     <B>50</B>
+    <C>1</C>
   </DC_RING_MODULATOR>
   <DC_RING_MODULATOR_SEQ>
     <A>0</A>
@@ -11250,6 +11748,7 @@
   </DC_RING_MODULATOR_SEQ>
   <DC_G2B>
     <A>50</A>
+    <B>1</B>
   </DC_G2B>
   <DC_SUSTAINER>
     <A>50</A>
@@ -11272,9 +11771,11 @@
     <A>50</A>
     <B>50</B>
     <C>50</C>
+    <D>1</D>
   </DC_SLOW_GEAR>
   <DC_TRANSPOSE>
     <A>12</A>
+    <B>1</B>
   </DC_TRANSPOSE>
   <DC_TRANSPOSE_SEQ>
     <A>0</A>
@@ -11303,6 +11804,7 @@
   <DC_PITCH_BEND>
     <A>6</A>
     <B>50</B>
+    <C>1</C>
   </DC_PITCH_BEND>
   <DC_PITCH_BEND_SEQ>
     <A>0</A>
@@ -11331,6 +11833,7 @@
   <DC_ROBOT>
     <A>0</A>
     <B>50</B>
+    <C>1</C>
   </DC_ROBOT>
   <DC_ELECTRIC>
     <A>12</A>
@@ -11362,6 +11865,7 @@
     <C>50</C>
     <D>50</D>
     <E>50</E>
+    <F>1</F>
   </DC_VOCODER>
   <DC_OSC_VOCODER>
     <A>0</A>
@@ -11435,12 +11939,18 @@
     <C>20</C>
     <D>20</D>
     <E>20</E>
+    <F>16</F>
+    <G>1</G>
+    <H>22</H>
+    <I>1</I>
   </DC_EQ>
   <DC_ISOLATOR>
     <A>0</A>
     <B>6</B>
     <C>50</C>
     <D>100</D>
+    <E>0</E>
+    <F>0</F>
   </DC_ISOLATOR>
   <DC_ISOLATOR_SEQ>
     <A>0</A>
@@ -11468,7 +11978,8 @@
   </DC_ISOLATOR_SEQ>
   <DC_OCTAVE>
     <A>0</A>
-    <B>50</B>
+    <B>1</B>
+    <C>50</C>
   </DC_OCTAVE>
   <DC_OCTAVE_SEQ>
     <A>0</A>
@@ -11496,9 +12007,10 @@
   </DC_OCTAVE_SEQ>
   <DC_AUTO_PAN>
     <A>64</A>
-    <B>50</B>
+    <B>0</B>
     <C>50</C>
     <D>0</D>
+    <E>0</E>
   </DC_AUTO_PAN>
   <DC_MANUAL_PAN>
     <A>50</A>
@@ -11678,6 +12190,14 @@
     <E>29</E>
     <F>50</F>
   </DC_TAPE_ECHO>
+  <DC_TAPE_ECHO_V505V2>
+    <A>50</A>
+    <B>50</B>
+    <C>100</C>
+    <D>50</D>
+    <E>50</E>
+    <F>50</F>
+  </DC_TAPE_ECHO_V505V2>
   <DC_GRANULAR_DELAY>
     <A>50</A>
     <B>70</B>
@@ -11693,11 +12213,17 @@
     <D>50</D>
   </DC_TWIST>
   <DC_ROLL>
-    <A>4</A>
+    <A>8</A>
     <B>50</B>
     <C>0</C>
     <D>50</D>
   </DC_ROLL>
+  <DC_ROLL_V505V2>
+    <A>8</A>
+    <B>50</B>
+    <C>0</C>
+    <D>50</D>
+  </DC_ROLL_V505V2>
   <DC_FREEZE>
     <A>30</A>
     <B>30</B>
@@ -11751,6 +12277,7 @@
     <B>50</B>
     <C>50</C>
     <D>50</D>
+    <E>0</E>
   </DD_LPF>
   <DD_LPF_SEQ>
     <A>0</A>
@@ -11781,6 +12308,7 @@
     <B>50</B>
     <C>50</C>
     <D>50</D>
+    <E>0</E>
   </DD_BPF>
   <DD_BPF_SEQ>
     <A>0</A>
@@ -11811,6 +12339,7 @@
     <B>50</B>
     <C>50</C>
     <D>50</D>
+    <E>0</E>
   </DD_HPF>
   <DD_HPF_SEQ>
     <A>0</A>
@@ -11843,6 +12372,8 @@
     <D>50</D>
     <E>100</E>
     <F>100</F>
+    <G>0</G>
+    <H>1</H>
   </DD_PHASER>
   <DD_PHASER_SEQ>
     <A>0</A>
@@ -11876,6 +12407,7 @@
     <E>0</E>
     <F>100</F>
     <G>100</G>
+    <H>0</H>
   </DD_FLANGER>
   <DD_FLANGER_SEQ>
     <A>0</A>
@@ -11943,6 +12475,7 @@
   <DD_RING_MODULATOR>
     <A>50</A>
     <B>50</B>
+    <C>1</C>
   </DD_RING_MODULATOR>
   <DD_RING_MODULATOR_SEQ>
     <A>0</A>
@@ -11970,6 +12503,7 @@
   </DD_RING_MODULATOR_SEQ>
   <DD_G2B>
     <A>50</A>
+    <B>1</B>
   </DD_G2B>
   <DD_SUSTAINER>
     <A>50</A>
@@ -11992,9 +12526,11 @@
     <A>50</A>
     <B>50</B>
     <C>50</C>
+    <D>1</D>
   </DD_SLOW_GEAR>
   <DD_TRANSPOSE>
     <A>12</A>
+    <B>1</B>
   </DD_TRANSPOSE>
   <DD_TRANSPOSE_SEQ>
     <A>0</A>
@@ -12023,6 +12559,7 @@
   <DD_PITCH_BEND>
     <A>6</A>
     <B>50</B>
+    <C>1</C>
   </DD_PITCH_BEND>
   <DD_PITCH_BEND_SEQ>
     <A>0</A>
@@ -12051,6 +12588,7 @@
   <DD_ROBOT>
     <A>0</A>
     <B>50</B>
+    <C>1</C>
   </DD_ROBOT>
   <DD_ELECTRIC>
     <A>12</A>
@@ -12082,6 +12620,7 @@
     <C>50</C>
     <D>50</D>
     <E>50</E>
+    <F>1</F>
   </DD_VOCODER>
   <DD_OSC_VOCODER>
     <A>0</A>
@@ -12155,12 +12694,18 @@
     <C>20</C>
     <D>20</D>
     <E>20</E>
+    <F>16</F>
+    <G>1</G>
+    <H>22</H>
+    <I>1</I>
   </DD_EQ>
   <DD_ISOLATOR>
     <A>0</A>
     <B>6</B>
     <C>50</C>
     <D>100</D>
+    <E>0</E>
+    <F>0</F>
   </DD_ISOLATOR>
   <DD_ISOLATOR_SEQ>
     <A>0</A>
@@ -12188,7 +12733,8 @@
   </DD_ISOLATOR_SEQ>
   <DD_OCTAVE>
     <A>0</A>
-    <B>50</B>
+    <B>1</B>
+    <C>50</C>
   </DD_OCTAVE>
   <DD_OCTAVE_SEQ>
     <A>0</A>
@@ -12216,9 +12762,10 @@
   </DD_OCTAVE_SEQ>
   <DD_AUTO_PAN>
     <A>64</A>
-    <B>50</B>
+    <B>0</B>
     <C>50</C>
     <D>0</D>
+    <E>0</E>
   </DD_AUTO_PAN>
   <DD_MANUAL_PAN>
     <A>50</A>
@@ -12398,6 +12945,14 @@
     <E>29</E>
     <F>50</F>
   </DD_TAPE_ECHO>
+  <DD_TAPE_ECHO_V505V2>
+    <A>50</A>
+    <B>50</B>
+    <C>100</C>
+    <D>50</D>
+    <E>50</E>
+    <F>50</F>
+  </DD_TAPE_ECHO_V505V2>
   <DD_GRANULAR_DELAY>
     <A>50</A>
     <B>70</B>
@@ -12413,11 +12968,17 @@
     <D>50</D>
   </DD_TWIST>
   <DD_ROLL>
-    <A>4</A>
+    <A>8</A>
     <B>50</B>
     <C>0</C>
     <D>50</D>
   </DD_ROLL>
+  <DD_ROLL_V505V2>
+    <A>8</A>
+    <B>50</B>
+    <C>0</C>
+    <D>50</D>
+  </DD_ROLL_V505V2>
   <DD_FREEZE>
     <A>30</A>
     <B>30</B>
@@ -12461,7 +13022,7 @@
     <G>50</G>
   </DD_REVERSE_REVERB>
 </ifx>
-<tfx id="1">
+<tfx id="12">
   <SETUP>
     <A>0</A>
   </SETUP>
@@ -12937,8 +13498,8 @@
   </AA_ISOLATOR_SEQ>
   <AA_OCTAVE>
     <A>0</A>
-    <B>50</B>
-    <C>1</C>
+    <B>1</B>
+    <C>50</C>
   </AA_OCTAVE>
   <AA_OCTAVE_SEQ>
     <A>0</A>
@@ -13070,8 +13631,6 @@
     <C>35</C>
     <D>0</D>
     <E>100</E>
-    <F>0</F>
-    <G>2</G>
   </AA_PATTERN_SLICER>
   <AA_STEP_SLICER>
     <A>6</A>
@@ -13109,8 +13668,6 @@
     <6>100</6>
     <7>100</7>
     <8>100</8>
-    <9>0</9>
-    <#>6</#>
   </AA_STEP_SLICER>
   <AA_DELAY>
     <A>211</A>
@@ -13711,8 +14268,8 @@
   </AB_ISOLATOR_SEQ>
   <AB_OCTAVE>
     <A>0</A>
-    <B>50</B>
-    <C>1</C>
+    <B>1</B>
+    <C>50</C>
   </AB_OCTAVE>
   <AB_OCTAVE_SEQ>
     <A>0</A>
@@ -13844,8 +14401,6 @@
     <C>35</C>
     <D>0</D>
     <E>100</E>
-    <F>0</F>
-    <G>2</G>
   </AB_PATTERN_SLICER>
   <AB_STEP_SLICER>
     <A>6</A>
@@ -13883,8 +14438,6 @@
     <6>100</6>
     <7>100</7>
     <8>100</8>
-    <9>0</9>
-    <#>6</#>
   </AB_STEP_SLICER>
   <AB_DELAY>
     <A>211</A>
@@ -14485,8 +15038,8 @@
   </AC_ISOLATOR_SEQ>
   <AC_OCTAVE>
     <A>0</A>
-    <B>50</B>
-    <C>1</C>
+    <B>1</B>
+    <C>50</C>
   </AC_OCTAVE>
   <AC_OCTAVE_SEQ>
     <A>0</A>
@@ -14618,8 +15171,6 @@
     <C>35</C>
     <D>0</D>
     <E>100</E>
-    <F>0</F>
-    <G>2</G>
   </AC_PATTERN_SLICER>
   <AC_STEP_SLICER>
     <A>6</A>
@@ -14657,8 +15208,6 @@
     <6>100</6>
     <7>100</7>
     <8>100</8>
-    <9>0</9>
-    <#>6</#>
   </AC_STEP_SLICER>
   <AC_DELAY>
     <A>211</A>
@@ -15259,8 +15808,8 @@
   </AD_ISOLATOR_SEQ>
   <AD_OCTAVE>
     <A>0</A>
-    <B>50</B>
-    <C>1</C>
+    <B>1</B>
+    <C>50</C>
   </AD_OCTAVE>
   <AD_OCTAVE_SEQ>
     <A>0</A>
@@ -15392,8 +15941,6 @@
     <C>35</C>
     <D>0</D>
     <E>100</E>
-    <F>0</F>
-    <G>2</G>
   </AD_PATTERN_SLICER>
   <AD_STEP_SLICER>
     <A>6</A>
@@ -15431,8 +15978,6 @@
     <6>100</6>
     <7>100</7>
     <8>100</8>
-    <9>0</9>
-    <#>6</#>
   </AD_STEP_SLICER>
   <AD_DELAY>
     <A>211</A>
@@ -16038,8 +16583,8 @@
   </BA_ISOLATOR_SEQ>
   <BA_OCTAVE>
     <A>0</A>
-    <B>50</B>
-    <C>1</C>
+    <B>1</B>
+    <C>50</C>
   </BA_OCTAVE>
   <BA_OCTAVE_SEQ>
     <A>0</A>
@@ -16171,8 +16716,6 @@
     <C>35</C>
     <D>0</D>
     <E>100</E>
-    <F>0</F>
-    <G>2</G>
   </BA_PATTERN_SLICER>
   <BA_STEP_SLICER>
     <A>6</A>
@@ -16210,8 +16753,6 @@
     <6>100</6>
     <7>100</7>
     <8>100</8>
-    <9>0</9>
-    <#>6</#>
   </BA_STEP_SLICER>
   <BA_DELAY>
     <A>211</A>
@@ -16812,8 +17353,8 @@
   </BB_ISOLATOR_SEQ>
   <BB_OCTAVE>
     <A>0</A>
-    <B>50</B>
-    <C>1</C>
+    <B>1</B>
+    <C>50</C>
   </BB_OCTAVE>
   <BB_OCTAVE_SEQ>
     <A>0</A>
@@ -16945,8 +17486,6 @@
     <C>35</C>
     <D>0</D>
     <E>100</E>
-    <F>0</F>
-    <G>2</G>
   </BB_PATTERN_SLICER>
   <BB_STEP_SLICER>
     <A>6</A>
@@ -16984,8 +17523,6 @@
     <6>100</6>
     <7>100</7>
     <8>100</8>
-    <9>0</9>
-    <#>6</#>
   </BB_STEP_SLICER>
   <BB_DELAY>
     <A>211</A>
@@ -17586,8 +18123,8 @@
   </BC_ISOLATOR_SEQ>
   <BC_OCTAVE>
     <A>0</A>
-    <B>50</B>
-    <C>1</C>
+    <B>1</B>
+    <C>50</C>
   </BC_OCTAVE>
   <BC_OCTAVE_SEQ>
     <A>0</A>
@@ -17719,8 +18256,6 @@
     <C>35</C>
     <D>0</D>
     <E>100</E>
-    <F>0</F>
-    <G>2</G>
   </BC_PATTERN_SLICER>
   <BC_STEP_SLICER>
     <A>6</A>
@@ -17758,8 +18293,6 @@
     <6>100</6>
     <7>100</7>
     <8>100</8>
-    <9>0</9>
-    <#>6</#>
   </BC_STEP_SLICER>
   <BC_DELAY>
     <A>211</A>
@@ -18360,8 +18893,8 @@
   </BD_ISOLATOR_SEQ>
   <BD_OCTAVE>
     <A>0</A>
-    <B>50</B>
-    <C>1</C>
+    <B>1</B>
+    <C>50</C>
   </BD_OCTAVE>
   <BD_OCTAVE_SEQ>
     <A>0</A>
@@ -18493,8 +19026,6 @@
     <C>35</C>
     <D>0</D>
     <E>100</E>
-    <F>0</F>
-    <G>2</G>
   </BD_PATTERN_SLICER>
   <BD_STEP_SLICER>
     <A>6</A>
@@ -18532,8 +19063,6 @@
     <6>100</6>
     <7>100</7>
     <8>100</8>
-    <9>0</9>
-    <#>6</#>
   </BD_STEP_SLICER>
   <BD_DELAY>
     <A>211</A>
@@ -19139,8 +19668,8 @@
   </CA_ISOLATOR_SEQ>
   <CA_OCTAVE>
     <A>0</A>
-    <B>50</B>
-    <C>1</C>
+    <B>1</B>
+    <C>50</C>
   </CA_OCTAVE>
   <CA_OCTAVE_SEQ>
     <A>0</A>
@@ -19272,8 +19801,6 @@
     <C>35</C>
     <D>0</D>
     <E>100</E>
-    <F>0</F>
-    <G>2</G>
   </CA_PATTERN_SLICER>
   <CA_STEP_SLICER>
     <A>6</A>
@@ -19311,8 +19838,6 @@
     <6>100</6>
     <7>100</7>
     <8>100</8>
-    <9>0</9>
-    <#>6</#>
   </CA_STEP_SLICER>
   <CA_DELAY>
     <A>211</A>
@@ -19913,8 +20438,8 @@
   </CB_ISOLATOR_SEQ>
   <CB_OCTAVE>
     <A>0</A>
-    <B>50</B>
-    <C>1</C>
+    <B>1</B>
+    <C>50</C>
   </CB_OCTAVE>
   <CB_OCTAVE_SEQ>
     <A>0</A>
@@ -20046,8 +20571,6 @@
     <C>35</C>
     <D>0</D>
     <E>100</E>
-    <F>0</F>
-    <G>2</G>
   </CB_PATTERN_SLICER>
   <CB_STEP_SLICER>
     <A>6</A>
@@ -20085,8 +20608,6 @@
     <6>100</6>
     <7>100</7>
     <8>100</8>
-    <9>0</9>
-    <#>6</#>
   </CB_STEP_SLICER>
   <CB_DELAY>
     <A>211</A>
@@ -20687,8 +21208,8 @@
   </CC_ISOLATOR_SEQ>
   <CC_OCTAVE>
     <A>0</A>
-    <B>50</B>
-    <C>1</C>
+    <B>1</B>
+    <C>50</C>
   </CC_OCTAVE>
   <CC_OCTAVE_SEQ>
     <A>0</A>
@@ -20820,8 +21341,6 @@
     <C>35</C>
     <D>0</D>
     <E>100</E>
-    <F>0</F>
-    <G>2</G>
   </CC_PATTERN_SLICER>
   <CC_STEP_SLICER>
     <A>6</A>
@@ -20859,8 +21378,6 @@
     <6>100</6>
     <7>100</7>
     <8>100</8>
-    <9>0</9>
-    <#>6</#>
   </CC_STEP_SLICER>
   <CC_DELAY>
     <A>211</A>
@@ -21461,8 +21978,8 @@
   </CD_ISOLATOR_SEQ>
   <CD_OCTAVE>
     <A>0</A>
-    <B>50</B>
-    <C>1</C>
+    <B>1</B>
+    <C>50</C>
   </CD_OCTAVE>
   <CD_OCTAVE_SEQ>
     <A>0</A>
@@ -21594,8 +22111,6 @@
     <C>35</C>
     <D>0</D>
     <E>100</E>
-    <F>0</F>
-    <G>2</G>
   </CD_PATTERN_SLICER>
   <CD_STEP_SLICER>
     <A>6</A>
@@ -21633,8 +22148,6 @@
     <6>100</6>
     <7>100</7>
     <8>100</8>
-    <9>0</9>
-    <#>6</#>
   </CD_STEP_SLICER>
   <CD_DELAY>
     <A>211</A>
@@ -22240,8 +22753,8 @@
   </DA_ISOLATOR_SEQ>
   <DA_OCTAVE>
     <A>0</A>
-    <B>50</B>
-    <C>1</C>
+    <B>1</B>
+    <C>50</C>
   </DA_OCTAVE>
   <DA_OCTAVE_SEQ>
     <A>0</A>
@@ -22373,8 +22886,6 @@
     <C>35</C>
     <D>0</D>
     <E>100</E>
-    <F>0</F>
-    <G>2</G>
   </DA_PATTERN_SLICER>
   <DA_STEP_SLICER>
     <A>6</A>
@@ -22412,8 +22923,6 @@
     <6>100</6>
     <7>100</7>
     <8>100</8>
-    <9>0</9>
-    <#>6</#>
   </DA_STEP_SLICER>
   <DA_DELAY>
     <A>211</A>
@@ -23014,8 +23523,8 @@
   </DB_ISOLATOR_SEQ>
   <DB_OCTAVE>
     <A>0</A>
-    <B>50</B>
-    <C>1</C>
+    <B>1</B>
+    <C>50</C>
   </DB_OCTAVE>
   <DB_OCTAVE_SEQ>
     <A>0</A>
@@ -23147,8 +23656,6 @@
     <C>35</C>
     <D>0</D>
     <E>100</E>
-    <F>0</F>
-    <G>2</G>
   </DB_PATTERN_SLICER>
   <DB_STEP_SLICER>
     <A>6</A>
@@ -23186,8 +23693,6 @@
     <6>100</6>
     <7>100</7>
     <8>100</8>
-    <9>0</9>
-    <#>6</#>
   </DB_STEP_SLICER>
   <DB_DELAY>
     <A>211</A>
@@ -23788,8 +24293,8 @@
   </DC_ISOLATOR_SEQ>
   <DC_OCTAVE>
     <A>0</A>
-    <B>50</B>
-    <C>1</C>
+    <B>1</B>
+    <C>50</C>
   </DC_OCTAVE>
   <DC_OCTAVE_SEQ>
     <A>0</A>
@@ -23921,8 +24426,6 @@
     <C>35</C>
     <D>0</D>
     <E>100</E>
-    <F>0</F>
-    <G>2</G>
   </DC_PATTERN_SLICER>
   <DC_STEP_SLICER>
     <A>6</A>
@@ -23960,8 +24463,6 @@
     <6>100</6>
     <7>100</7>
     <8>100</8>
-    <9>0</9>
-    <#>6</#>
   </DC_STEP_SLICER>
   <DC_DELAY>
     <A>211</A>
@@ -24562,8 +25063,8 @@
   </DD_ISOLATOR_SEQ>
   <DD_OCTAVE>
     <A>0</A>
-    <B>50</B>
-    <C>1</C>
+    <B>1</B>
+    <C>50</C>
   </DD_OCTAVE>
   <DD_OCTAVE_SEQ>
     <A>0</A>
@@ -24695,8 +25196,6 @@
     <C>35</C>
     <D>0</D>
     <E>100</E>
-    <F>0</F>
-    <G>2</G>
   </DD_PATTERN_SLICER>
   <DD_STEP_SLICER>
     <A>6</A>
@@ -24734,8 +25233,6 @@
     <6>100</6>
     <7>100</7>
     <8>100</8>
-    <9>0</9>
-    <#>6</#>
   </DD_STEP_SLICER>
   <DD_DELAY>
     <A>211</A>
