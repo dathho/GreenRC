@@ -3,28 +3,28 @@
 <mem id="97">
   <NAME>
     <A>83</A>
-    <B>105</B>
-    <C>110</C>
-    <D>103</D>
-    <E>108</E>
-    <F>101</F>
+    <B>73</B>
+    <C>78</C>
+    <D>71</D>
+    <E>76</E>
+    <F>69</F>
     <G>32</G>
     <H>84</H>
-    <I>109</I>
-    <J>112</J>
-    <K>108</K>
-    <L>116</L>
+    <I>77</I>
+    <J>80</J>
+    <K>32</K>
+    <L>32</L>
   </NAME>
   <TRACK1>
     <A>0</A>
     <B>0</B>
     <C>50</C>
-    <D>100</D>
+    <D>69</D>
     <E>0</E>
-    <F>0</F>
+    <F>2</F>
     <G>0</G>
-    <H>1</H>
-    <I>0</I>
+    <H>0</H>
+    <I>1</I>
     <J>0</J>
     <K>0</K>
     <L>1</L>
@@ -48,14 +48,14 @@
     <C>50</C>
     <D>98</D>
     <E>0</E>
-    <F>0</F>
+    <F>2</F>
     <G>0</G>
-    <H>1</H>
-    <I>0</I>
+    <H>0</H>
+    <I>1</I>
     <J>0</J>
     <K>0</K>
     <L>1</L>
-    <M>0</M>
+    <M>1</M>
     <N>1</N>
     <O>1</O>
     <P>0</P>
@@ -75,14 +75,14 @@
     <C>50</C>
     <D>98</D>
     <E>0</E>
-    <F>0</F>
+    <F>2</F>
     <G>0</G>
-    <H>1</H>
-    <I>0</I>
+    <H>0</H>
+    <I>1</I>
     <J>0</J>
     <K>0</K>
     <L>1</L>
-    <M>0</M>
+    <M>1</M>
     <N>1</N>
     <O>1</O>
     <P>0</P>
@@ -102,14 +102,14 @@
     <C>50</C>
     <D>100</D>
     <E>0</E>
-    <F>0</F>
+    <F>2</F>
     <G>0</G>
     <H>1</H>
-    <I>0</I>
+    <I>1</I>
     <J>1</J>
     <K>0</K>
     <L>1</L>
-    <M>0</M>
+    <M>1</M>
     <N>1</N>
     <O>1</O>
     <P>0</P>
@@ -129,14 +129,14 @@
     <C>50</C>
     <D>98</D>
     <E>0</E>
-    <F>0</F>
+    <F>2</F>
     <G>0</G>
     <H>1</H>
-    <I>0</I>
+    <I>1</I>
     <J>1</J>
     <K>0</K>
     <L>1</L>
-    <M>0</M>
+    <M>1</M>
     <N>1</N>
     <O>1</O>
     <P>0</P>
@@ -156,19 +156,19 @@
     <C>50</C>
     <D>100</D>
     <E>0</E>
-    <F>0</F>
+    <F>1</F>
     <G>0</G>
     <H>1</H>
     <I>0</I>
-    <J>2</J>
+    <J>1</J>
     <K>0</K>
     <L>1</L>
-    <M>0</M>
+    <M>1</M>
     <N>1</N>
     <O>1</O>
     <P>1</P>
     <Q>16</Q>
-    <R>2</R>
+    <R>1</R>
     <S>0</S>
     <T>0</T>
     <U>1200</U>
@@ -178,13 +178,13 @@
     <Y>1</Y>
   </TRACK6>
   <MASTER>
-    <A>1200</A>
-    <B>88200</B>
+    <A>1050</A>
+    <B>100800</B>
     <C>0</C>
-    <D>8</D>
+    <D>0</D>
   </MASTER>
   <REC>
-    <A>0</A>
+    <A>1</A>
     <B>0</B>
     <C>0</C>
     <D>50</D>
@@ -192,9 +192,9 @@
     <F>63</F>
   </REC>
   <PLAY>
-    <A>0</A>
-    <B>5</B>
-    <C>5</C>
+    <A>2</A>
+    <B>3</B>
+    <C>3</C>
     <D>63</D>
     <E>63</E>
     <F>0</F>
@@ -202,9 +202,9 @@
     <H>1</H>
   </PLAY>
   <RHYTHM>
-    <A>0</A>
-    <B>0</B>
-    <C>1</C>
+    <A>1</A>
+    <B>6</B>
+    <C>0</C>
     <D>1</D>
     <E>4</E>
     <F>2</F>
@@ -213,7 +213,7 @@
     <I>0</I>
     <J>0</J>
     <K>2</K>
-    <L>0</L>
+    <L>2</L>
     <M>0</M>
   </RHYTHM>
   <ICTL1_TRACK1_FX>
@@ -317,32 +317,32 @@
     <C>1</C>
   </ICTL2_TRACK5_TRACK>
   <ICTL1_PEDAL1>
-    <A>3</A>
+    <A>4</A>
     <B>0</B>
     <C>1</C>
   </ICTL1_PEDAL1>
   <ICTL1_PEDAL2>
-    <A>11</A>
+    <A>30</A>
     <B>0</B>
     <C>1</C>
   </ICTL1_PEDAL2>
   <ICTL1_PEDAL3>
-    <A>29</A>
+    <A>56</A>
     <B>0</B>
     <C>1</C>
   </ICTL1_PEDAL3>
   <ICTL1_PEDAL4>
-    <A>37</A>
+    <A>82</A>
     <B>0</B>
     <C>1</C>
   </ICTL1_PEDAL4>
   <ICTL1_PEDAL5>
-    <A>55</A>
+    <A>108</A>
     <B>0</B>
     <C>1</C>
   </ICTL1_PEDAL5>
   <ICTL1_PEDAL6>
-    <A>63</A>
+    <A>134</A>
     <B>0</B>
     <C>1</C>
   </ICTL1_PEDAL6>
@@ -357,37 +357,37 @@
     <C>1</C>
   </ICTL1_PEDAL8>
   <ICTL1_PEDAL9>
-    <A>186</A>
+    <A>3</A>
     <B>0</B>
     <C>1</C>
   </ICTL1_PEDAL9>
   <ICTL2_PEDAL1>
-    <A>85</A>
+    <A>196</A>
     <B>0</B>
     <C>1</C>
   </ICTL2_PEDAL1>
   <ICTL2_PEDAL2>
-    <A>89</A>
+    <A>197</A>
     <B>0</B>
     <C>1</C>
   </ICTL2_PEDAL2>
   <ICTL2_PEDAL3>
-    <A>107</A>
+    <A>198</A>
     <B>0</B>
     <C>1</C>
   </ICTL2_PEDAL3>
   <ICTL2_PEDAL4>
-    <A>115</A>
+    <A>199</A>
     <B>0</B>
     <C>1</C>
   </ICTL2_PEDAL4>
   <ICTL2_PEDAL5>
-    <A>133</A>
+    <A>201</A>
     <B>0</B>
     <C>1</C>
   </ICTL2_PEDAL5>
   <ICTL2_PEDAL6>
-    <A>141</A>
+    <A>206</A>
     <B>0</B>
     <C>1</C>
   </ICTL2_PEDAL6>
@@ -397,7 +397,7 @@
     <C>1</C>
   </ICTL2_PEDAL7>
   <ICTL2_PEDAL8>
-    <A>207</A>
+    <A>163</A>
     <B>0</B>
     <C>1</C>
   </ICTL2_PEDAL8>
@@ -407,37 +407,37 @@
     <C>1</C>
   </ICTL2_PEDAL9>
   <ICTL3_PEDAL1>
-    <A>196</A>
+    <A>202</A>
     <B>0</B>
     <C>1</C>
   </ICTL3_PEDAL1>
   <ICTL3_PEDAL2>
-    <A>197</A>
+    <A>203</A>
     <B>0</B>
     <C>1</C>
   </ICTL3_PEDAL2>
   <ICTL3_PEDAL3>
-    <A>198</A>
+    <A>204</A>
     <B>0</B>
     <C>1</C>
   </ICTL3_PEDAL3>
   <ICTL3_PEDAL4>
-    <A>202</A>
+    <A>205</A>
     <B>0</B>
     <C>1</C>
   </ICTL3_PEDAL4>
   <ICTL3_PEDAL5>
-    <A>203</A>
+    <A>201</A>
     <B>0</B>
     <C>1</C>
   </ICTL3_PEDAL5>
   <ICTL3_PEDAL6>
-    <A>204</A>
+    <A>206</A>
     <B>0</B>
     <C>1</C>
   </ICTL3_PEDAL6>
   <ICTL3_PEDAL7>
-    <A>194</A>
+    <A>182</A>
     <B>0</B>
     <C>1</C>
   </ICTL3_PEDAL7>
@@ -682,7 +682,7 @@
   <INPUT>
     <A>1</A>
     <B>0</B>
-    <C>0</C>
+    <C>1</C>
     <D>1</D>
     <E>0</E>
     <F>1</F>
@@ -722,7 +722,7 @@
     <S>1</S>
   </ROUTING>
   <MIXER>
-    <A>65</A>
+    <A>89</A>
     <B>1</B>
     <C>100</C>
     <D>0</D>
@@ -735,7 +735,7 @@
     <K>100</K>
     <L>0</L>
     <M>100</M>
-    <N>52</N>
+    <N>60</N>
     <O>100</O>
     <P>100</P>
     <Q>100</Q>
@@ -4305,7 +4305,7 @@
     <E>0</E>
   </BA_ELECTRIC>
   <BA_HARMONIST_MANUAL>
-    <A>6</A>
+    <A>4</A>
     <B>70</B>
     <C>50</C>
     <D>0</D>
@@ -4733,9 +4733,9 @@
     <G>50</G>
   </BA_REVERSE_REVERB>
   <BB>
-    <A>1</A>
+    <A>0</A>
     <B>0</B>
-    <C>25</C>
+    <C>17</C>
     <D>3</D>
   </BB>
   <BB_LPF>
@@ -5064,7 +5064,7 @@
     <E>0</E>
   </BB_ELECTRIC>
   <BB_HARMONIST_MANUAL>
-    <A>6</A>
+    <A>2</A>
     <B>50</B>
     <C>50</C>
     <D>0</D>
@@ -5492,7 +5492,7 @@
     <G>50</G>
   </BB_REVERSE_REVERB>
   <BC>
-    <A>1</A>
+    <A>0</A>
     <B>0</B>
     <C>13</C>
     <D>3</D>
@@ -6251,9 +6251,9 @@
     <G>50</G>
   </BC_REVERSE_REVERB>
   <BD>
-    <A>1</A>
+    <A>0</A>
     <B>0</B>
-    <C>22</C>
+    <C>17</C>
     <D>3</D>
   </BD>
   <BD_LPF>
@@ -6582,7 +6582,7 @@
     <E>0</E>
   </BD_ELECTRIC>
   <BD_HARMONIST_MANUAL>
-    <A>6</A>
+    <A>0</A>
     <B>50</B>
     <C>50</C>
     <D>0</D>
@@ -25502,4 +25502,4 @@
   </DD_VINYL_FLICK>
 </tfx>
 </database>
-<count>0003</count>
+<count>0005</count>

@@ -192,7 +192,7 @@
     <F>63</F>
   </REC>
   <PLAY>
-    <A>0</A>
+    <A>2</A>
     <B>5</B>
     <C>5</C>
     <D>63</D>
@@ -682,7 +682,7 @@
   <INPUT>
     <A>1</A>
     <B>0</B>
-    <C>0</C>
+    <C>1</C>
     <D>1</D>
     <E>0</E>
     <F>1</F>
@@ -723,15 +723,15 @@
   </ROUTING>
   <MIXER>
     <A>65</A>
-    <B>1</B>
+    <B>0</B>
     <C>100</C>
-    <D>0</D>
+    <D>1</D>
     <E>100</E>
-    <F>0</F>
+    <F>1</F>
     <G>100</G>
     <H>0</H>
     <I>85</I>
-    <J>0</J>
+    <J>1</J>
     <K>100</K>
     <L>0</L>
     <M>100</M>
@@ -747,8 +747,8 @@
   </MIXER>
   <EQ_MIC1>
     <A>0</A>
-    <B>20</B>
-    <C>20</C>
+    <B>22</B>
+    <C>16</C>
     <D>11</D>
     <E>0</E>
     <F>20</F>
@@ -930,13 +930,13 @@
   <A>
     <A>1</A>
     <B>1</B>
-    <C>0</C>
+    <C>1</C>
   </A>
   <AA>
     <A>0</A>
     <B>0</B>
-    <C>0</C>
-    <D>0</D>
+    <C>17</C>
+    <D>1</D>
   </AA>
   <AA_LPF>
     <A>3</A>
@@ -1135,8 +1135,8 @@
     <D>50</D>
   </AA_LOFI>
   <AA_RADIO>
-    <A>4</A>
-    <B>50</B>
+    <A>5</A>
+    <B>60</B>
   </AA_RADIO>
   <AA_RING_MODULATOR>
     <A>50</A>
@@ -1223,7 +1223,7 @@
     <V>0</V>
   </AA_TRANSPOSE_SEQ>
   <AA_PITCH_BEND>
-    <A>6</A>
+    <A>3</A>
     <B>50</B>
     <C>1</C>
   </AA_PITCH_BEND>
@@ -1265,11 +1265,11 @@
   </AA_ELECTRIC>
   <AA_HARMONIST_MANUAL>
     <A>6</A>
-    <B>50</B>
+    <B>70</B>
     <C>50</C>
-    <D>0</D>
+    <D>10</D>
     <E>100</E>
-    <F>80</F>
+    <F>45</F>
   </AA_HARMONIST_MANUAL>
   <AA_HARMONIST_AUTO>
     <A>4</A>
@@ -1332,16 +1332,16 @@
   <AA_PREAMP>
     <A>3</A>
     <B>1</B>
-    <C>50</C>
+    <C>15</C>
     <D>10</D>
     <E>50</E>
     <F>50</F>
-    <G>50</G>
+    <G>48</G>
     <H>50</H>
     <I>0</I>
     <J>0</J>
     <K>0</K>
-    <L>50</L>
+    <L>70</L>
   </AA_PREAMP>
   <AA_DIST>
     <A>1</A>
@@ -1428,7 +1428,7 @@
   </AA_OCTAVE_SEQ>
   <AA_AUTO_PAN>
     <A>64</A>
-    <B>0</B>
+    <B>50</B>
     <C>50</C>
     <D>0</D>
     <E>0</E>
@@ -1580,7 +1580,7 @@
     <C>100</C>
     <D>0</D>
     <E>29</E>
-    <F>50</F>
+    <F>10</F>
   </AA_DELAY>
   <AA_PANNING_DELAY>
     <A>211</A>
@@ -1617,11 +1617,11 @@
   </AA_TAPE_ECHO>
   <AA_TAPE_ECHO_V505V2>
     <A>50</A>
-    <B>50</B>
+    <B>18</B>
     <C>100</C>
     <D>50</D>
     <E>50</E>
-    <F>50</F>
+    <F>10</F>
   </AA_TAPE_ECHO_V505V2>
   <AA_GRANULAR_DELAY>
     <A>50</A>
@@ -1638,7 +1638,7 @@
     <D>50</D>
   </AA_TWIST>
   <AA_ROLL>
-    <A>8</A>
+    <A>4</A>
     <B>50</B>
     <C>0</C>
     <D>50</D>
@@ -1694,8 +1694,8 @@
   <AB>
     <A>0</A>
     <B>0</B>
-    <C>9</C>
-    <D>0</D>
+    <C>17</C>
+    <D>1</D>
   </AB>
   <AB_LPF>
     <A>3</A>
@@ -1792,11 +1792,11 @@
   </AB_HPF_SEQ>
   <AB_PHASER>
     <A>3</A>
-    <B>50</B>
-    <C>50</C>
+    <B>40</B>
+    <C>25</C>
     <D>50</D>
-    <E>100</E>
-    <F>100</F>
+    <E>0</E>
+    <F>50</F>
     <G>0</G>
     <H>1</H>
   </AB_PHASER>
@@ -1927,7 +1927,7 @@
     <V>0</V>
   </AB_RING_MODULATOR_SEQ>
   <AB_G2B>
-    <A>50</A>
+    <A>20</A>
     <B>1</B>
   </AB_G2B>
   <AB_SUSTAINER>
@@ -1939,8 +1939,8 @@
     <F>50</F>
   </AB_SUSTAINER>
   <AB_AUTO_RIFF>
-    <A>0</A>
-    <B>6</B>
+    <A>4</A>
+    <B>12</B>
     <C>0</C>
     <D>50</D>
     <E>1</E>
@@ -1954,7 +1954,7 @@
     <D>1</D>
   </AB_SLOW_GEAR>
   <AB_TRANSPOSE>
-    <A>12</A>
+    <A>0</A>
     <B>1</B>
   </AB_TRANSPOSE>
   <AB_TRANSPOSE_SEQ>
@@ -1982,8 +1982,8 @@
     <V>0</V>
   </AB_TRANSPOSE_SEQ>
   <AB_PITCH_BEND>
-    <A>6</A>
-    <B>50</B>
+    <A>2</A>
+    <B>4</B>
     <C>1</C>
   </AB_PITCH_BEND>
   <AB_PITCH_BEND_SEQ>
@@ -2023,21 +2023,21 @@
     <E>0</E>
   </AB_ELECTRIC>
   <AB_HARMONIST_MANUAL>
-    <A>6</A>
+    <A>8</A>
     <B>50</B>
     <C>50</C>
     <D>0</D>
     <E>100</E>
-    <F>80</F>
+    <F>30</F>
   </AB_HARMONIST_MANUAL>
   <AB_HARMONIST_AUTO>
-    <A>4</A>
+    <A>0</A>
     <B>50</B>
     <C>50</C>
     <D>1</D>
     <E>0</E>
     <F>100</F>
-    <G>80</G>
+    <G>30</G>
   </AB_HARMONIST_AUTO>
   <AB_VOCODER>
     <A>6</A>
@@ -2048,7 +2048,7 @@
     <F>1</F>
   </AB_VOCODER>
   <AB_OSC_VOCODER>
-    <A>0</A>
+    <A>3</A>
     <B>50</B>
     <C>50</C>
     <D>2</D>
@@ -2110,18 +2110,18 @@
     <E>50</E>
   </AB_DIST>
   <AB_DYNAMICS>
-    <A>0</A>
+    <A>2</A>
     <B>20</B>
   </AB_DYNAMICS>
   <AB_EQ>
     <A>20</A>
     <B>20</B>
-    <C>20</C>
+    <C>25</C>
     <D>20</D>
-    <E>20</E>
-    <F>16</F>
+    <E>13</E>
+    <F>7</F>
     <G>1</G>
-    <H>22</H>
+    <H>23</H>
     <I>1</I>
   </AB_EQ>
   <AB_ISOLATOR>
@@ -2187,7 +2187,7 @@
   </AB_OCTAVE_SEQ>
   <AB_AUTO_PAN>
     <A>64</A>
-    <B>0</B>
+    <B>50</B>
     <C>50</C>
     <D>0</D>
     <E>0</E>
@@ -2397,7 +2397,7 @@
     <D>50</D>
   </AB_TWIST>
   <AB_ROLL>
-    <A>8</A>
+    <A>4</A>
     <B>50</B>
     <C>0</C>
     <D>50</D>
@@ -2451,10 +2451,10 @@
     <G>50</G>
   </AB_REVERSE_REVERB>
   <AC>
-    <A>1</A>
+    <A>0</A>
     <B>0</B>
-    <C>35</C>
-    <D>0</D>
+    <C>17</C>
+    <D>1</D>
   </AC>
   <AC_LPF>
     <A>3</A>
@@ -2713,7 +2713,7 @@
     <D>1</D>
   </AC_SLOW_GEAR>
   <AC_TRANSPOSE>
-    <A>12</A>
+    <A>0</A>
     <B>1</B>
   </AC_TRANSPOSE>
   <AC_TRANSPOSE_SEQ>
@@ -2782,12 +2782,12 @@
     <E>0</E>
   </AC_ELECTRIC>
   <AC_HARMONIST_MANUAL>
-    <A>6</A>
-    <B>50</B>
+    <A>10</A>
+    <B>70</B>
     <C>50</C>
     <D>0</D>
     <E>100</E>
-    <F>80</F>
+    <F>45</F>
   </AC_HARMONIST_MANUAL>
   <AC_HARMONIST_AUTO>
     <A>4</A>
@@ -2850,16 +2850,16 @@
   <AC_PREAMP>
     <A>3</A>
     <B>1</B>
-    <C>50</C>
+    <C>12</C>
     <D>10</D>
     <E>50</E>
     <F>50</F>
-    <G>50</G>
+    <G>45</G>
     <H>50</H>
     <I>0</I>
     <J>0</J>
     <K>0</K>
-    <L>50</L>
+    <L>70</L>
   </AC_PREAMP>
   <AC_DIST>
     <A>1</A>
@@ -2946,7 +2946,7 @@
   </AC_OCTAVE_SEQ>
   <AC_AUTO_PAN>
     <A>64</A>
-    <B>0</B>
+    <B>50</B>
     <C>50</C>
     <D>0</D>
     <E>0</E>
@@ -3093,7 +3093,7 @@
     <#>6</#>
   </AC_STEP_SLICER>
   <AC_DELAY>
-    <A>44</A>
+    <A>211</A>
     <B>20</B>
     <C>100</C>
     <D>0</D>
@@ -3156,7 +3156,7 @@
     <D>50</D>
   </AC_TWIST>
   <AC_ROLL>
-    <A>8</A>
+    <A>4</A>
     <B>50</B>
     <C>0</C>
     <D>50</D>
@@ -3210,10 +3210,10 @@
     <G>50</G>
   </AC_REVERSE_REVERB>
   <AD>
-    <A>1</A>
+    <A>0</A>
     <B>0</B>
-    <C>46</C>
-    <D>0</D>
+    <C>17</C>
+    <D>1</D>
   </AD>
   <AD_LPF>
     <A>3</A>
@@ -3343,7 +3343,7 @@
     <V>0</V>
   </AD_PHASER_SEQ>
   <AD_FLANGER>
-    <A>2</A>
+    <A>3</A>
     <B>50</B>
     <C>70</C>
     <D>50</D>
@@ -3413,7 +3413,7 @@
   </AD_LOFI>
   <AD_RADIO>
     <A>4</A>
-    <B>50</B>
+    <B>80</B>
   </AD_RADIO>
   <AD_RING_MODULATOR>
     <A>50</A>
@@ -3541,7 +3541,7 @@
     <E>0</E>
   </AD_ELECTRIC>
   <AD_HARMONIST_MANUAL>
-    <A>6</A>
+    <A>5</A>
     <B>50</B>
     <C>50</C>
     <D>0</D>
@@ -3607,17 +3607,17 @@
     <V>0</V>
   </AD_OSC_BOT_SEQ>
   <AD_PREAMP>
-    <A>3</A>
-    <B>1</B>
+    <A>1</A>
+    <B>8</B>
     <C>50</C>
-    <D>10</D>
-    <E>50</E>
-    <F>50</F>
-    <G>50</G>
-    <H>50</H>
+    <D>0</D>
+    <E>75</E>
+    <F>0</F>
+    <G>25</G>
+    <H>0</H>
     <I>0</I>
     <J>0</J>
-    <K>0</K>
+    <K>10</K>
     <L>50</L>
   </AD_PREAMP>
   <AD_DIST>
@@ -3705,7 +3705,7 @@
   </AD_OCTAVE_SEQ>
   <AD_AUTO_PAN>
     <A>64</A>
-    <B>0</B>
+    <B>50</B>
     <C>50</C>
     <D>0</D>
     <E>0</E>
@@ -3915,7 +3915,7 @@
     <D>50</D>
   </AD_TWIST>
   <AD_ROLL>
-    <A>8</A>
+    <A>4</A>
     <B>50</B>
     <C>0</C>
     <D>50</D>
@@ -3971,13 +3971,13 @@
   <B>
     <A>1</A>
     <B>1</B>
-    <C>0</C>
+    <C>1</C>
   </B>
   <BA>
     <A>0</A>
     <B>0</B>
-    <C>0</C>
-    <D>0</D>
+    <C>17</C>
+    <D>1</D>
   </BA>
   <BA_LPF>
     <A>3</A>
@@ -4306,11 +4306,11 @@
   </BA_ELECTRIC>
   <BA_HARMONIST_MANUAL>
     <A>6</A>
-    <B>50</B>
+    <B>70</B>
     <C>50</C>
     <D>0</D>
     <E>100</E>
-    <F>80</F>
+    <F>45</F>
   </BA_HARMONIST_MANUAL>
   <BA_HARMONIST_AUTO>
     <A>4</A>
@@ -4398,7 +4398,7 @@
   <BA_EQ>
     <A>20</A>
     <B>20</B>
-    <C>20</C>
+    <C>15</C>
     <D>20</D>
     <E>20</E>
     <F>16</F>
@@ -4469,7 +4469,7 @@
   </BA_OCTAVE_SEQ>
   <BA_AUTO_PAN>
     <A>64</A>
-    <B>0</B>
+    <B>50</B>
     <C>50</C>
     <D>0</D>
     <E>0</E>
@@ -4621,7 +4621,7 @@
     <C>100</C>
     <D>0</D>
     <E>29</E>
-    <F>50</F>
+    <F>14</F>
   </BA_DELAY>
   <BA_PANNING_DELAY>
     <A>211</A>
@@ -4679,7 +4679,7 @@
     <D>50</D>
   </BA_TWIST>
   <BA_ROLL>
-    <A>8</A>
+    <A>4</A>
     <B>50</B>
     <C>0</C>
     <D>50</D>
@@ -4733,10 +4733,10 @@
     <G>50</G>
   </BA_REVERSE_REVERB>
   <BB>
-    <A>0</A>
+    <A>1</A>
     <B>0</B>
-    <C>9</C>
-    <D>0</D>
+    <C>25</C>
+    <D>3</D>
   </BB>
   <BB_LPF>
     <A>3</A>
@@ -5130,9 +5130,9 @@
     <V>0</V>
   </BB_OSC_BOT_SEQ>
   <BB_PREAMP>
-    <A>3</A>
+    <A>4</A>
     <B>1</B>
-    <C>50</C>
+    <C>40</C>
     <D>10</D>
     <E>50</E>
     <F>50</F>
@@ -5141,7 +5141,7 @@
     <I>0</I>
     <J>0</J>
     <K>0</K>
-    <L>50</L>
+    <L>35</L>
   </BB_PREAMP>
   <BB_DIST>
     <A>1</A>
@@ -5157,12 +5157,12 @@
   <BB_EQ>
     <A>20</A>
     <B>20</B>
-    <C>20</C>
+    <C>25</C>
     <D>20</D>
-    <E>20</E>
+    <E>13</E>
     <F>16</F>
     <G>1</G>
-    <H>22</H>
+    <H>23</H>
     <I>1</I>
   </BB_EQ>
   <BB_ISOLATOR>
@@ -5228,7 +5228,7 @@
   </BB_OCTAVE_SEQ>
   <BB_AUTO_PAN>
     <A>64</A>
-    <B>0</B>
+    <B>50</B>
     <C>50</C>
     <D>0</D>
     <E>0</E>
@@ -5438,7 +5438,7 @@
     <D>50</D>
   </BB_TWIST>
   <BB_ROLL>
-    <A>8</A>
+    <A>4</A>
     <B>50</B>
     <C>0</C>
     <D>50</D>
@@ -5483,7 +5483,7 @@
     <G>50</G>
   </BB_GATE_REVERB>
   <BB_REVERSE_REVERB>
-    <A>5</A>
+    <A>4</A>
     <B>0</B>
     <C>5</C>
     <D>0</D>
@@ -5492,10 +5492,10 @@
     <G>50</G>
   </BB_REVERSE_REVERB>
   <BC>
-    <A>0</A>
+    <A>1</A>
     <B>0</B>
-    <C>33</C>
-    <D>0</D>
+    <C>13</C>
+    <D>3</D>
   </BC>
   <BC_LPF>
     <A>3</A>
@@ -5736,7 +5736,7 @@
     <C>50</C>
     <D>20</D>
     <E>20</E>
-    <F>50</F>
+    <F>12</F>
   </BC_SUSTAINER>
   <BC_AUTO_RIFF>
     <A>0</A>
@@ -5754,7 +5754,7 @@
     <D>1</D>
   </BC_SLOW_GEAR>
   <BC_TRANSPOSE>
-    <A>12</A>
+    <A>0</A>
     <B>1</B>
   </BC_TRANSPOSE>
   <BC_TRANSPOSE_SEQ>
@@ -5916,7 +5916,7 @@
   <BC_EQ>
     <A>20</A>
     <B>20</B>
-    <C>20</C>
+    <C>15</C>
     <D>20</D>
     <E>20</E>
     <F>16</F>
@@ -5987,7 +5987,7 @@
   </BC_OCTAVE_SEQ>
   <BC_AUTO_PAN>
     <A>64</A>
-    <B>0</B>
+    <B>50</B>
     <C>50</C>
     <D>0</D>
     <E>0</E>
@@ -6197,7 +6197,7 @@
     <D>50</D>
   </BC_TWIST>
   <BC_ROLL>
-    <A>8</A>
+    <A>4</A>
     <B>50</B>
     <C>0</C>
     <D>50</D>
@@ -6251,10 +6251,10 @@
     <G>50</G>
   </BC_REVERSE_REVERB>
   <BD>
-    <A>0</A>
+    <A>1</A>
     <B>0</B>
-    <C>35</C>
-    <D>0</D>
+    <C>22</C>
+    <D>3</D>
   </BD>
   <BD_LPF>
     <A>3</A>
@@ -6648,13 +6648,13 @@
     <V>0</V>
   </BD_OSC_BOT_SEQ>
   <BD_PREAMP>
-    <A>3</A>
-    <B>1</B>
+    <A>1</A>
+    <B>8</B>
     <C>50</C>
-    <D>10</D>
-    <E>50</E>
-    <F>50</F>
-    <G>50</G>
+    <D>0</D>
+    <E>75</E>
+    <F>0</F>
+    <G>25</G>
     <H>50</H>
     <I>0</I>
     <J>0</J>
@@ -6746,7 +6746,7 @@
   </BD_OCTAVE_SEQ>
   <BD_AUTO_PAN>
     <A>64</A>
-    <B>0</B>
+    <B>50</B>
     <C>50</C>
     <D>0</D>
     <E>0</E>
@@ -6896,9 +6896,9 @@
     <A>211</A>
     <B>20</B>
     <C>100</C>
-    <D>0</D>
-    <E>29</E>
-    <F>50</F>
+    <D>4</D>
+    <E>21</E>
+    <F>20</F>
   </BD_DELAY>
   <BD_PANNING_DELAY>
     <A>211</A>
@@ -6956,7 +6956,7 @@
     <D>50</D>
   </BD_TWIST>
   <BD_ROLL>
-    <A>8</A>
+    <A>4</A>
     <B>50</B>
     <C>0</C>
     <D>50</D>
