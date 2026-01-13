@@ -42,8 +42,8 @@ Things were tightened up and beautified.
 |  12    |  12       | RHYTHM VAR       |
 |  13    |  13       | CUR TRK LVL      |
 |  14    |  14       | CUR TRK NUM 1+2  |
-|  15    |  20       | CUR TRK NUM 3+4  |
-|  16    |  21       | TEMPO            |
+|  15    |  21       | CUR TRK NUM 3+4  |
+|  16    |  22       | TEMPO            |
 
 ### For MEMORY90A.RC0
 
