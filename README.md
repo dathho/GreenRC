@@ -84,6 +84,7 @@ __I'm looking for your best MEMORYXXA.RCO examples.  Maybe with a great pedal mo
 
 
 Next Up: 
+  * the different kits have different sounds on some pads. change the labels when switching kits
   * 3D, touch sensitive PADs.  Right now I don't see a path but I'm on the outlook. Will the accelerometer work?  Let me know if you can help!
   * __✔__ up/down gig timer in the same footprint.
     * with 15-90 minute "tm dn select" popup radio. 
