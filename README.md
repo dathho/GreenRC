@@ -9,7 +9,7 @@ This version trades the ASSIGN selecting tracks 5&6, for a tempo slider.
 A TAP TEMPO on the interface didn't work for me, but I like this. It's not accurate on some genre's so it will probably go away.  I think I know why and it can be adjusted, but it's work.  I tap tempo so don't care much, at times I've had an FS-7 do BPM inc/dec, but even with that my timing's still off.  Comment in the forums or discussion here.
 Things were tightened up and beautified.
 
-![alt text](GrnRC1.jpg)
+![alt text](GrnRC1.jpg?v=2)
 
 
 1. __Instructions are in the Document notes:__ they may not be as updated-this is easier.
